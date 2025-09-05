@@ -1,0 +1,1890 @@
+04-09-2025 09:58:40 INFO: Application started.
+04-09-2025 09:58:40 INFO: Starting the Guest Check-In Application.
+04-09-2025 09:58:40 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 09:58:40 DEBUG: Widgets created.
+04-09-2025 09:59:08 INFO: Starting face capture.
+04-09-2025 09:59:13 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_0959.png
+04-09-2025 09:59:14 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_0959.png
+04-09-2025 09:59:16 DEBUG: Processing check-in.
+04-09-2025 09:59:16 INFO: Guest record created: {'name': 'Ke', 'badge_id': 'ba', 'reason_of_visit': 'I want to eat foods', 'date': '2025-04-09', 'time_in': '2025-04-09 09:59:16', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_0959.png', 'nda_accepted': True}
+04-09-2025 09:59:16 INFO: Preparing email notification for guest: Ke
+04-09-2025 09:59:16 DEBUG: Attached email text content.
+04-09-2025 09:59:16 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_0959.png
+04-09-2025 09:59:16 DEBUG: Connecting to SMTP server.
+04-09-2025 09:59:18 INFO: Email sent successfully with attachment.
+04-09-2025 09:59:18 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Ke has just checked in.
+04-09-2025 09:59:19 DEBUG: Fields cleared after check-in.
+04-09-2025 10:08:54 INFO: Application closed.
+04-09-2025 10:32:29 INFO: Application started.
+04-09-2025 10:32:29 INFO: Starting the Guest Check-In Application.
+04-09-2025 10:32:29 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 10:32:29 DEBUG: Widgets created.
+04-09-2025 10:32:41 INFO: Starting face capture.
+04-09-2025 10:32:46 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1032.png
+04-09-2025 10:32:47 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1032.png
+04-09-2025 10:32:50 DEBUG: Processing check-in.
+04-09-2025 10:32:50 INFO: Guest record created: {'name': 'ke', 'badge_id': 'ke', 'reason_of_visit': 'ke', 'date': '2025-04-09', 'time_in': '2025-04-09 10:32:50', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1032.png', 'nda_accepted': True}
+04-09-2025 10:33:36 DEBUG: Processing check-in.
+04-09-2025 10:33:36 INFO: Guest record created: {'name': 'ke', 'badge_id': 'ke', 'reason_of_visit': 'ke', 'date': '2025-04-09', 'time_in': '2025-04-09 10:33:36', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1032.png', 'nda_accepted': True}
+04-09-2025 10:33:41 DEBUG: Processing check-in.
+04-09-2025 10:33:41 INFO: Guest record created: {'name': 'ke', 'badge_id': 'ke', 'reason_of_visit': 'keddd', 'date': '2025-04-09', 'time_in': '2025-04-09 10:33:41', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1032.png', 'nda_accepted': True}
+04-09-2025 10:33:44 INFO: Application closed.
+04-09-2025 10:38:53 INFO: Application started.
+04-09-2025 10:38:53 INFO: Starting the Guest Check-In Application.
+04-09-2025 10:38:53 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 10:38:53 DEBUG: Widgets created.
+04-09-2025 10:39:03 INFO: Starting face capture.
+04-09-2025 10:39:08 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1039.png
+04-09-2025 10:39:10 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1039.png
+04-09-2025 10:39:11 DEBUG: Processing check-in.
+04-09-2025 10:39:11 INFO: Guest record created: {'name': 'ke', 'badge_id': 'ke', 'reason_of_visit': 'ke', 'date': '2025-04-09', 'time_in': '2025-04-09 10:39:11', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1039.png', 'nda_accepted': True}
+04-09-2025 10:39:11 INFO: Preparing email notification for guest: ke
+04-09-2025 10:39:11 DEBUG: Attached email text content.
+04-09-2025 10:39:11 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1039.png
+04-09-2025 10:39:11 DEBUG: Connecting to SMTP server.
+04-09-2025 10:39:13 INFO: Email sent successfully with attachment.
+04-09-2025 10:39:13 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest ke has just checked in.
+Reason of Visit: ke
+04-09-2025 10:39:19 DEBUG: Fields cleared after check-in.
+04-09-2025 10:40:09 INFO: Application closed.
+04-09-2025 10:44:15 INFO: Application started.
+04-09-2025 10:44:15 INFO: Starting the Guest Check-In Application.
+04-09-2025 10:44:15 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 10:44:15 DEBUG: Widgets created.
+04-09-2025 11:02:02 INFO: Application closed.
+04-09-2025 11:11:14 INFO: Application started.
+04-09-2025 11:11:14 INFO: Starting the Guest Check-In Application.
+04-09-2025 11:11:14 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 11:11:14 DEBUG: Widgets created.
+04-09-2025 11:11:37 INFO: Starting face capture.
+04-09-2025 11:11:42 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1111.png
+04-09-2025 11:11:43 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1111.png
+04-09-2025 11:11:45 DEBUG: Processing check-in.
+04-09-2025 11:11:45 INFO: Guest record created: {'name': 'Kevin', 'badge_id': 'ke', 'reason_of_visit': 'To eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:11:45', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1111.png', 'nda_accepted': True}
+04-09-2025 11:11:45 INFO: Preparing email notification for guest: Kevin
+04-09-2025 11:11:45 DEBUG: Attached email text content.
+04-09-2025 11:11:45 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1111.png
+04-09-2025 11:11:45 DEBUG: Connecting to SMTP server.
+04-09-2025 11:11:47 INFO: Email sent successfully with attachment.
+04-09-2025 11:11:47 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: To eat sushi
+04-09-2025 11:11:49 DEBUG: Fields cleared after check-in.
+04-09-2025 11:13:37 INFO: Application closed.
+04-09-2025 11:14:32 INFO: Application started.
+04-09-2025 11:14:32 INFO: Starting the Guest Check-In Application.
+04-09-2025 11:14:32 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 11:14:32 DEBUG: Widgets created.
+04-09-2025 11:14:49 INFO: Starting face capture.
+04-09-2025 11:14:54 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1114.png
+04-09-2025 11:14:56 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1114.png
+04-09-2025 11:14:58 DEBUG: Processing check-in.
+04-09-2025 11:14:58 INFO: Guest record created: {'name': 'Kevin', 'badge_id': 'ke', 'reason_of_visit': 'To eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:14:58', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1114.png', 'nda_accepted': True}
+04-09-2025 11:14:58 INFO: Preparing email notification for guest: Kevin
+04-09-2025 11:14:58 DEBUG: Attached email text content.
+04-09-2025 11:14:58 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1114.png
+04-09-2025 11:14:58 DEBUG: Connecting to SMTP server.
+04-09-2025 11:14:59 INFO: Email sent successfully with attachment.
+04-09-2025 11:14:59 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: To eat sushi
+04-09-2025 11:15:01 DEBUG: Fields cleared after check-in.
+04-09-2025 11:15:08 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:16:32 INFO: Updated record 0: {'name': 'Kevin', 'badge_id': 'ke', 'reason_of_visit': 'To eat sushgi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:14:58', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1114.png', 'nda_accepted': True}
+04-09-2025 11:16:53 INFO: Updated record 0: {'name': 'Kevin', 'badge_id': 'sofa', 'reason_of_visit': 'To eat sushgi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:14:58', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1114.png', 'nda_accepted': True}
+04-09-2025 11:16:56 INFO: Updated record 0: {'name': 'Kevin', 'badge_id': 'sofa', 'reason_of_visit': 'To eat sushgi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:14:58', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1114.png', 'nda_accepted': True}
+04-09-2025 11:17:18 DEBUG: Processing check-out.
+04-09-2025 11:17:20 WARNING: Check-out failed: No active record found for the provided Badge ID.
+04-09-2025 11:17:28 DEBUG: Processing check-out.
+04-09-2025 11:17:29 INFO: Guest checked out: {'name': 'Kevin', 'badge_id': 'sofa', 'reason_of_visit': 'To eat sushgi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:14:58', 'time_out': '2025-04-09 11:17:28', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1114.png', 'nda_accepted': True}
+04-09-2025 11:17:38 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:20:23 INFO: Application closed.
+04-09-2025 11:20:23 INFO: Application started.
+04-09-2025 11:20:23 INFO: Starting the Guest Check-In Application.
+04-09-2025 11:20:23 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 11:20:23 DEBUG: Widgets created.
+04-09-2025 11:20:25 INFO: Application closed.
+04-09-2025 11:20:26 INFO: Application started.
+04-09-2025 11:20:26 INFO: Starting the Guest Check-In Application.
+04-09-2025 11:20:27 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 11:20:27 DEBUG: Widgets created.
+04-09-2025 11:20:52 INFO: Starting face capture.
+04-09-2025 11:20:59 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1120.png
+04-09-2025 11:21:00 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1120.png
+04-09-2025 11:21:02 DEBUG: Processing check-in.
+04-09-2025 11:21:02 INFO: Guest record created: {'name': 'Kevin', 'badge_id': 'ke', 'reason_of_visit': 'to eats the sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:21:02', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1120.png', 'nda_accepted': True}
+04-09-2025 11:21:02 INFO: Preparing email notification for guest: Kevin
+04-09-2025 11:21:02 DEBUG: Attached email text content.
+04-09-2025 11:21:02 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1120.png
+04-09-2025 11:21:02 DEBUG: Connecting to SMTP server.
+04-09-2025 11:21:04 INFO: Email sent successfully with attachment.
+04-09-2025 11:21:04 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: to eats the sushi
+04-09-2025 11:21:06 DEBUG: Fields cleared after check-in.
+04-09-2025 11:21:11 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:21:45 DEBUG: Processing check-out.
+04-09-2025 11:21:49 INFO: Guest checked out: {'name': 'Kevin', 'badge_id': 'ke', 'reason_of_visit': 'to eats the sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:21:02', 'time_out': '2025-04-09 11:21:45', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1120.png', 'nda_accepted': True}
+04-09-2025 11:24:45 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:31:00 INFO: Starting face capture.
+04-09-2025 11:31:17 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1131.png
+04-09-2025 11:32:06 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1131.png
+04-09-2025 11:32:26 DEBUG: Processing check-in.
+04-09-2025 11:32:26 INFO: Guest record created: {'name': 'kevin', 'badge_id': 'ke', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:32:26 INFO: Preparing email notification for guest: kevin
+04-09-2025 11:32:26 DEBUG: Attached email text content.
+04-09-2025 11:32:26 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1131.png
+04-09-2025 11:32:26 DEBUG: Connecting to SMTP server.
+04-09-2025 11:32:28 INFO: Email sent successfully with attachment.
+04-09-2025 11:32:28 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: eat sushi
+04-09-2025 11:34:04 DEBUG: Fields cleared after check-in.
+04-09-2025 11:34:06 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:34:25 INFO: Updated record 1: {'name': 'kevin', 'badge_id': 'ke', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:35:29 INFO: Updated record 1: {'name': 'kevin', 'badge_id': 'ke', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:35:31 INFO: Updated record 1: {'name': 'kevin', 'badge_id': 'ke', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:35:51 INFO: Updated record 1: {'name': 'kevin', 'badge_id': '00', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:36:18 DEBUG: Processing check-out.
+04-09-2025 11:36:23 WARNING: Check-out failed: No active record found for the provided Badge ID.
+04-09-2025 11:36:23 DEBUG: Fields cleared after check Out.
+04-09-2025 11:37:11 DEBUG: Processing check-in.
+04-09-2025 11:37:17 WARNING: Check-in aborted: Reason of Visit not provided.
+04-09-2025 11:37:19 DEBUG: Processing check-in.
+04-09-2025 11:37:22 WARNING: Check-in aborted: Reason of Visit not provided.
+04-09-2025 11:37:33 DEBUG: Processing check-out.
+04-09-2025 11:37:37 INFO: Guest checked out: {'name': 'kevin', 'badge_id': '00', 'reason_of_visit': 'eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 11:32:26', 'time_out': '2025-04-09 11:37:33', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1131.png', 'nda_accepted': True}
+04-09-2025 11:38:50 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:38:54 INFO: Starting face capture.
+04-09-2025 11:39:03 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:05 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:10 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:39:12 DEBUG: Processing check-in.
+04-09-2025 11:39:13 WARNING: Check-in aborted: Reason of Visit not provided.
+04-09-2025 11:39:17 DEBUG: Processing check-in.
+04-09-2025 11:39:17 INFO: Guest record created: {'name': 'kevin', 'badge_id': '00', 'reason_of_visit': 'hhhh', 'date': '2025-04-09', 'time_in': '2025-04-09 11:39:17', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1139.png', 'nda_accepted': True}
+04-09-2025 11:39:17 INFO: Preparing email notification for guest: kevin
+04-09-2025 11:39:17 DEBUG: Attached email text content.
+04-09-2025 11:39:17 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:17 DEBUG: Connecting to SMTP server.
+04-09-2025 11:39:19 INFO: Email sent successfully with attachment.
+04-09-2025 11:39:19 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: hhhh
+04-09-2025 11:39:20 DEBUG: Fields cleared after check-in.
+04-09-2025 11:39:21 DEBUG: Treeview updated with current check-in records.
+04-09-2025 11:39:35 INFO: Starting face capture.
+04-09-2025 11:39:42 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:45 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:47 DEBUG: Processing check-in.
+04-09-2025 11:39:47 INFO: Guest record created: {'name': 'po', 'badge_id': '00', 'reason_of_visit': 'gc', 'date': '2025-04-09', 'time_in': '2025-04-09 11:39:47', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1139.png', 'nda_accepted': True}
+04-09-2025 11:39:47 INFO: Preparing email notification for guest: po
+04-09-2025 11:39:47 DEBUG: Attached email text content.
+04-09-2025 11:39:47 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1139.png
+04-09-2025 11:39:47 DEBUG: Connecting to SMTP server.
+04-09-2025 11:39:50 INFO: Email sent successfully with attachment.
+04-09-2025 11:39:50 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest po has just checked in.
+Reason of Visit: gc
+04-09-2025 11:39:53 DEBUG: Fields cleared after check-in.
+04-09-2025 12:04:49 INFO: Application closed.
+04-09-2025 12:05:37 INFO: Application started.
+04-09-2025 12:05:37 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:05:38 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:05:38 DEBUG: Widgets created.
+04-09-2025 12:18:23 INFO: Starting face capture.
+04-09-2025 12:18:28 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1218.png
+04-09-2025 12:18:29 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1218.png
+04-09-2025 12:18:32 DEBUG: Processing check-in.
+04-09-2025 12:18:32 INFO: Guest record created: {'name': 'kevin', 'badge_id': 'gg', 'reason_of_visit': 'gg', 'date': '2025-04-09', 'time_in': '2025-04-09 12:18:32', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1218.png', 'nda_accepted': True}
+04-09-2025 12:18:32 INFO: Preparing email notification for guest: kevin
+04-09-2025 12:18:32 DEBUG: Attached email text content.
+04-09-2025 12:18:32 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1218.png
+04-09-2025 12:18:32 DEBUG: Connecting to SMTP server.
+04-09-2025 12:18:33 INFO: Email sent successfully with attachment.
+04-09-2025 12:18:33 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: gg
+04-09-2025 12:18:34 DEBUG: Fields cleared after check-in.
+04-09-2025 12:18:41 DEBUG: Treeview updated with current check-in records.
+04-09-2025 12:19:12 INFO: Updated record 0: {'name': 'kevin', 'badge_id': 'hgjg', 'reason_of_visit': 'gg', 'date': '2025-04-09', 'time_in': '2025-04-09 12:18:32', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1218.png', 'nda_accepted': True}
+04-09-2025 12:19:18 INFO: Updated record 0: {'name': 'kevin', 'badge_id': 'hgjg', 'reason_of_visit': 'gg eat sushi', 'date': '2025-04-09', 'time_in': '2025-04-09 12:18:32', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1218.png', 'nda_accepted': True}
+04-09-2025 12:26:15 INFO: Application closed.
+04-09-2025 12:27:48 INFO: Application started.
+04-09-2025 12:27:48 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:27:48 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:27:48 DEBUG: Widgets created.
+04-09-2025 12:28:18 INFO: Application closed.
+04-09-2025 12:28:24 INFO: Application started.
+04-09-2025 12:28:24 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:28:24 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:28:24 DEBUG: Widgets created.
+04-09-2025 12:28:31 INFO: Application closed.
+04-09-2025 12:30:39 INFO: Application started.
+04-09-2025 12:30:39 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:30:39 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:30:46 INFO: Application started.
+04-09-2025 12:30:46 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:30:46 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:33:42 INFO: Application started.
+04-09-2025 12:33:42 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:33:42 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:33:42 DEBUG: Widgets created.
+04-09-2025 12:33:48 INFO: Application closed.
+04-09-2025 12:34:51 INFO: Application started.
+04-09-2025 12:34:51 INFO: Starting the Guest Check-In Application.
+04-09-2025 12:34:51 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 12:34:51 DEBUG: Widgets created.
+04-09-2025 12:34:59 INFO: Application closed.
+04-09-2025 13:15:34 INFO: Application started.
+04-09-2025 13:15:34 INFO: Starting the Guest Check-In Application.
+04-09-2025 13:15:34 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 13:15:34 DEBUG: Widgets created.
+04-09-2025 13:15:42 INFO: Admin button clicked.
+04-09-2025 13:15:53 INFO: Application closed.
+04-09-2025 13:18:16 INFO: Application started.
+04-09-2025 13:18:16 INFO: Starting the Guest Check-In Application.
+04-09-2025 13:18:16 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 13:18:16 DEBUG: Widgets created.
+04-09-2025 13:18:28 INFO: Admin window opened.
+04-09-2025 13:18:32 INFO: Badge Inventory button clicked from admin menu.
+04-09-2025 13:18:34 INFO: Admin window opened.
+04-09-2025 13:19:17 INFO: Application closed.
+04-09-2025 13:22:08 INFO: Application started.
+04-09-2025 13:22:08 INFO: Starting the Guest Check-In Application.
+04-09-2025 13:22:08 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 13:22:08 DEBUG: Widgets created.
+04-09-2025 13:25:32 INFO: Application closed.
+2025-04-09 13:26:35 INFO: Application started.
+2025-04-09 13:26:35 INFO: Starting the Guest Check-In Application.
+2025-04-09 13:26:35 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 13:26:35 DEBUG: Widgets created.
+2025-04-09 13:26:44 INFO: Application closed.
+2025-04-09 13:27:19 INFO: Application started.
+2025-04-09 13:27:19 INFO: Starting the Guest Check-In Application.
+2025-04-09 13:27:19 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 13:27:19 DEBUG: Widgets created.
+2025-04-09 13:27:26 INFO: Application closed.
+2025-04-09 13:28:13 INFO: Application started.
+2025-04-09 13:28:13 INFO: Starting the Guest Check-In Application.
+2025-04-09 13:28:13 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 13:28:13 DEBUG: Widgets created.
+2025-04-09 13:30:28 INFO: Application closed.
+2025-04-09 13:33:17 INFO: Application started.
+2025-04-09 13:33:17 INFO: Starting the Guest Check-In Application.
+2025-04-09 13:33:17 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 13:33:17 DEBUG: Widgets created.
+2025-04-09 13:33:29 INFO: Starting face capture.
+2025-04-09 13:33:34 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1333.png
+2025-04-09 13:33:35 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1333.png
+2025-04-09 13:33:38 DEBUG: Processing check-in.
+2025-04-09 13:33:38 INFO: Guest record created: {'name': 'Kevin', 'badge_id': 'n', 'reason_of_visit': 'f', 'date': '04-09-2025', 'time_in': '04-09-2025 13:33:38', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1333.png', 'nda_accepted': True}
+2025-04-09 13:33:38 INFO: Preparing email notification for guest: Kevin
+2025-04-09 13:33:38 DEBUG: Attached email text content.
+2025-04-09 13:33:38 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1333.png
+2025-04-09 13:33:38 DEBUG: Connecting to SMTP server.
+2025-04-09 13:33:40 INFO: Email sent successfully with attachment.
+2025-04-09 13:33:40 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: f
+2025-04-09 13:33:42 DEBUG: Fields cleared after check-in.
+2025-04-09 13:33:42 DEBUG: Treeview updated with current check-in records.
+2025-04-09 13:33:56 DEBUG: Processing check-out.
+2025-04-09 13:33:58 INFO: Guest checked out: {'name': 'Kevin', 'badge_id': 'n', 'reason_of_visit': 'f', 'date': '04-09-2025', 'time_in': '04-09-2025 13:33:38', 'time_out': '2025-04-09 13:33:56', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1333.png', 'nda_accepted': True}
+2025-04-09 13:33:58 DEBUG: Treeview updated with current check-in records.
+2025-04-09 13:34:22 INFO: Application closed.
+2025-04-09 13:56:29 INFO: Application started.
+2025-04-09 13:56:29 INFO: Starting the Guest Check-In Application.
+2025-04-09 13:56:29 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 13:56:29 DEBUG: Widgets created.
+2025-04-09 13:57:43 INFO: Application closed.
+2025-04-09 14:12:45 INFO: Application started.
+2025-04-09 14:12:45 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:12:45 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:12:45 DEBUG: Widgets created.
+2025-04-09 14:12:51 INFO: Admin window opened.
+2025-04-09 14:12:53 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:15:15 INFO: Admin window opened.
+2025-04-09 14:15:16 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:17:38 INFO: Application closed.
+2025-04-09 14:18:45 INFO: Application started.
+2025-04-09 14:18:45 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:18:45 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:18:45 DEBUG: Widgets created.
+2025-04-09 14:18:48 INFO: Admin window opened.
+2025-04-09 14:18:50 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:19:13 INFO: Admin window opened.
+2025-04-09 14:19:14 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:19:20 INFO: Application closed.
+2025-04-09 14:20:27 INFO: Application started.
+2025-04-09 14:20:27 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:20:27 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:20:27 DEBUG: Widgets created.
+2025-04-09 14:20:33 INFO: Admin window opened.
+2025-04-09 14:20:35 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:20:50 INFO: Admin window opened.
+2025-04-09 14:20:51 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:21:32 INFO: Admin window opened.
+2025-04-09 14:21:33 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:21:47 INFO: Application closed.
+2025-04-09 14:29:22 INFO: Application started.
+2025-04-09 14:29:22 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:29:22 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:29:22 DEBUG: Widgets created.
+2025-04-09 14:29:24 INFO: Admin window opened.
+2025-04-09 14:29:26 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:30:01 INFO: Application closed.
+2025-04-09 14:32:31 INFO: Application started.
+2025-04-09 14:32:31 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:32:31 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:32:31 DEBUG: Widgets created.
+2025-04-09 14:32:33 INFO: Admin window opened.
+2025-04-09 14:32:34 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:33:22 INFO: Admin window opened.
+2025-04-09 14:33:23 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:38:26 INFO: Application closed.
+2025-04-09 14:44:34 INFO: Application started.
+2025-04-09 14:44:34 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:44:34 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:44:34 DEBUG: Widgets created.
+2025-04-09 14:44:36 INFO: Admin window opened.
+2025-04-09 14:44:37 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:44:46 INFO: Admin window opened.
+2025-04-09 14:44:47 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:44:51 INFO: Application closed.
+2025-04-09 14:47:27 INFO: Application started.
+2025-04-09 14:47:27 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:47:27 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:47:27 DEBUG: Widgets created.
+2025-04-09 14:47:30 INFO: Admin window opened.
+2025-04-09 14:47:31 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:47:39 INFO: Application closed.
+2025-04-09 14:51:20 INFO: Application started.
+2025-04-09 14:51:20 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:51:20 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:51:20 DEBUG: Widgets created.
+2025-04-09 14:51:23 INFO: Admin window opened.
+2025-04-09 14:51:23 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 14:56:10 INFO: Application closed.
+2025-04-09 14:59:59 INFO: Application started.
+2025-04-09 14:59:59 INFO: Starting the Guest Check-In Application.
+2025-04-09 14:59:59 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 14:59:59 DEBUG: Widgets created.
+2025-04-09 15:00:01 INFO: Admin window opened.
+2025-04-09 15:00:02 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:00:28 INFO: Application closed.
+2025-04-09 15:01:00 INFO: Application started.
+2025-04-09 15:01:00 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:01:01 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:01:01 DEBUG: Widgets created.
+2025-04-09 15:01:02 INFO: Admin window opened.
+2025-04-09 15:01:03 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:01:16 INFO: Application closed.
+2025-04-09 15:01:35 INFO: Application started.
+2025-04-09 15:01:35 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:01:35 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:01:35 DEBUG: Widgets created.
+2025-04-09 15:01:36 INFO: Admin window opened.
+2025-04-09 15:01:38 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:13:18 INFO: Application closed.
+2025-04-09 15:15:33 INFO: Application started.
+2025-04-09 15:15:33 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:15:33 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:15:33 DEBUG: Widgets created.
+2025-04-09 15:15:36 INFO: Admin window opened.
+2025-04-09 15:15:37 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:16:09 INFO: Application closed.
+2025-04-09 15:16:29 INFO: Application started.
+2025-04-09 15:16:29 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:16:29 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:16:29 DEBUG: Widgets created.
+2025-04-09 15:16:31 INFO: Admin window opened.
+2025-04-09 15:16:32 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:16:57 INFO: Application closed.
+2025-04-09 15:18:15 INFO: Application started.
+2025-04-09 15:18:15 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:18:15 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:18:15 DEBUG: Widgets created.
+2025-04-09 15:18:51 INFO: Starting face capture.
+2025-04-09 15:18:57 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1518.png
+2025-04-09 15:18:59 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1518.png
+2025-04-09 15:21:41 DEBUG: Processing check-in.
+2025-04-09 15:21:41 INFO: Guest record created: {'name': 'Kevin', 'badge_id': 'Vista', 'reason_of_visit': 'eat sushi', 'date': '04-09-2025', 'time_in': '04-09-2025 15:21:41', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-09-2025_1518.png', 'nda_accepted': True}
+2025-04-09 15:21:41 INFO: Preparing email notification for guest: Kevin
+2025-04-09 15:21:41 DEBUG: Attached email text content.
+2025-04-09 15:21:41 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1518.png
+2025-04-09 15:21:41 DEBUG: Connecting to SMTP server.
+2025-04-09 15:21:43 INFO: Email sent successfully with attachment.
+2025-04-09 15:21:43 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: eat sushi
+2025-04-09 15:21:45 DEBUG: Fields cleared after check-in.
+2025-04-09 15:21:45 DEBUG: Treeview updated with current check-in records.
+2025-04-09 15:21:57 INFO: Admin window opened.
+2025-04-09 15:22:18 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:25:34 INFO: Application closed.
+2025-04-09 15:27:46 INFO: Application started.
+2025-04-09 15:27:46 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:27:47 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:27:47 DEBUG: Widgets created.
+2025-04-09 15:27:55 DEBUG: Treeview updated with current check-in records.
+2025-04-09 15:28:00 DEBUG: Treeview updated with current check-in records.
+2025-04-09 15:28:02 DEBUG: Treeview updated with current check-in records.
+2025-04-09 15:28:09 INFO: Admin window opened.
+2025-04-09 15:28:14 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:28:56 INFO: Admin window opened.
+2025-04-09 15:28:58 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:29:15 INFO: Admin window opened.
+2025-04-09 15:29:17 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:30:26 INFO: Admin window opened.
+2025-04-09 15:30:28 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:32:00 INFO: Application closed.
+2025-04-09 15:33:01 INFO: Application started.
+2025-04-09 15:33:01 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:33:01 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:33:01 DEBUG: Widgets created.
+2025-04-09 15:33:02 INFO: Admin window opened.
+2025-04-09 15:33:23 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:33:25 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:36:10 INFO: Application closed.
+2025-04-09 15:38:22 INFO: Application started.
+2025-04-09 15:38:22 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:38:22 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:38:22 DEBUG: Widgets created.
+2025-04-09 15:38:23 INFO: Admin window opened.
+2025-04-09 15:38:25 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:27 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:28 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:28 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:28 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:29 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:29 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:29 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:50 INFO: Admin window opened.
+2025-04-09 15:38:51 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:38:55 INFO: Application closed.
+2025-04-09 15:39:31 INFO: Application started.
+2025-04-09 15:39:31 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:39:31 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:39:31 DEBUG: Widgets created.
+2025-04-09 15:39:33 INFO: Admin window opened.
+2025-04-09 15:39:34 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 15:39:41 INFO: Application closed.
+2025-04-09 15:39:55 INFO: Application started.
+2025-04-09 15:39:55 INFO: Starting the Guest Check-In Application.
+2025-04-09 15:39:55 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 15:39:55 DEBUG: Widgets created.
+2025-04-09 15:40:26 INFO: Application closed.
+2025-04-09 16:00:06 INFO: Application started.
+2025-04-09 16:00:06 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:00:06 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:00:06 DEBUG: Widgets created.
+2025-04-09 16:00:07 INFO: Admin window opened.
+2025-04-09 16:00:08 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 16:00:10 INFO: Badge Inventory button clicked from admin menu.
+2025-04-09 16:01:40 INFO: Application closed.
+2025-04-09 16:02:07 INFO: Application started.
+2025-04-09 16:02:07 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:02:07 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:02:07 DEBUG: Widgets created.
+2025-04-09 16:07:22 INFO: Application closed.
+2025-04-09 16:19:03 INFO: Application started.
+2025-04-09 16:19:03 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:19:03 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:19:03 DEBUG: Widgets created.
+2025-04-09 16:19:07 INFO: Application closed.
+2025-04-09 16:19:55 INFO: Application started.
+2025-04-09 16:19:55 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:19:55 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:19:55 DEBUG: Widgets created.
+2025-04-09 16:19:59 INFO: Application closed.
+2025-04-09 16:20:04 INFO: Application started.
+2025-04-09 16:20:04 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:20:05 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:20:05 DEBUG: Widgets created.
+2025-04-09 16:20:08 INFO: Application closed.
+2025-04-09 16:20:14 INFO: Application started.
+2025-04-09 16:20:14 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:20:14 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:20:14 DEBUG: Widgets created.
+2025-04-09 16:20:15 INFO: Application closed.
+2025-04-09 16:20:28 INFO: Application started.
+2025-04-09 16:20:28 INFO: Starting the Guest Check-In Application.
+2025-04-09 16:20:28 DEBUG: Initializing GuestCheckInApp UI.
+2025-04-09 16:20:28 DEBUG: Widgets created.
+2025-04-09 16:20:31 INFO: Application closed.
+04-09-2025 16:38:05 INFO: Application started.
+04-09-2025 16:38:05 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:38:05 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:38:05 DEBUG: Widgets created.
+04-09-2025 16:38:19 INFO: Application closed.
+04-09-2025 16:38:59 INFO: Application started.
+04-09-2025 16:38:59 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:39:00 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:39:00 DEBUG: Widgets created.
+04-09-2025 16:39:09 INFO: Application closed.
+04-09-2025 16:40:56 INFO: Application started.
+04-09-2025 16:40:56 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:40:56 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:40:56 DEBUG: Widgets created.
+04-09-2025 16:41:02 INFO: Admin window opened.
+04-09-2025 16:41:04 INFO: Badge Inventory button clicked from admin menu.
+04-09-2025 16:43:27 INFO: Application closed.
+04-09-2025 16:49:10 INFO: Application started.
+04-09-2025 16:49:10 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:49:10 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:49:10 DEBUG: Widgets created.
+04-09-2025 16:50:27 INFO: Application closed.
+04-09-2025 16:50:51 INFO: Application started.
+04-09-2025 16:50:51 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:50:51 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:50:51 DEBUG: Widgets created.
+04-09-2025 16:51:14 INFO: Application closed.
+04-09-2025 16:53:32 INFO: Application started.
+04-09-2025 16:53:32 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:53:32 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:53:32 DEBUG: Widgets created.
+04-09-2025 16:55:44 INFO: Application closed.
+04-09-2025 16:58:43 INFO: Application started.
+04-09-2025 16:58:43 INFO: Starting the Guest Check-In Application.
+04-09-2025 16:58:43 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 16:58:43 DEBUG: Widgets created.
+04-09-2025 17:00:03 INFO: Admin window opened.
+04-09-2025 17:00:06 INFO: Badge Inventory button clicked from admin menu.
+04-09-2025 17:02:11 INFO: Application closed.
+04-09-2025 17:15:30 INFO: Application started.
+04-09-2025 17:15:30 INFO: Starting the Guest Check-In Application.
+04-09-2025 17:15:30 DEBUG: Initializing GuestCheckInApp UI.
+04-09-2025 17:15:30 DEBUG: Widgets created.
+04-09-2025 17:15:55 INFO: Starting face capture.
+04-09-2025 17:15:59 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1715.png
+04-09-2025 17:16:01 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-09-2025_1715.png
+04-09-2025 17:16:02 DEBUG: Processing check-in.
+04-09-2025 17:16:05 WARNING: Check-in aborted due to missing driver's license capture.
+04-09-2025 17:16:06 INFO: Starting driver license capture.
+04-09-2025 17:16:10 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-09-2025_1716.png
+04-09-2025 17:16:12 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-09-2025_1716.png
+04-09-2025 17:16:14 DEBUG: Processing check-in.
+04-09-2025 17:16:16 WARNING: Check-in aborted due to missing driver's license capture.
+04-09-2025 17:16:18 INFO: Starting driver license capture.
+04-09-2025 17:16:23 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-09-2025_1716.png
+04-09-2025 17:16:25 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-09-2025_1716.png
+04-09-2025 17:16:26 DEBUG: Processing check-in.
+04-09-2025 17:16:28 WARNING: Check-in aborted due to missing driver's license capture.
+04-11-2025 11:34:25 INFO: Application started.
+04-11-2025 11:34:25 INFO: Starting the Guest Check-In Application.
+04-11-2025 11:34:26 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 11:34:26 DEBUG: Widgets created.
+04-11-2025 11:34:29 INFO: Application closed.
+04-11-2025 11:42:16 INFO: Application started.
+04-11-2025 11:42:16 INFO: Starting the Guest Check-In Application.
+04-11-2025 11:42:16 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 11:42:16 DEBUG: Widgets created.
+04-11-2025 11:42:42 INFO: Starting face capture.
+04-11-2025 11:42:47 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1142.png
+04-11-2025 11:42:50 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1142.png
+04-11-2025 11:42:51 INFO: Starting driver license capture.
+04-11-2025 11:42:56 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1142.png
+04-11-2025 11:42:57 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1142.png
+04-11-2025 11:42:59 DEBUG: Processing check-in.
+04-11-2025 11:42:59 INFO: Guest record created: {'name': 'Kevin', 'company': 'TGC', 'badge_id': 'Visitor 1', 'reason_of_visit': 'SUSHI', 'area': 'Kitchen', 'date': '04-11-2025', 'time_in': '04-11-2025 11:42:59', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1142.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1142.png'}
+04-11-2025 11:42:59 INFO: Preparing email notification for guest: Kevin
+04-11-2025 11:42:59 DEBUG: Attached email text content.
+04-11-2025 11:42:59 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1142.png
+04-11-2025 11:42:59 DEBUG: Connecting to SMTP server.
+04-11-2025 11:43:00 INFO: Email sent successfully with attachment.
+04-11-2025 11:43:00 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: SUSHI
+04-11-2025 11:43:02 DEBUG: Fields cleared after check-in.
+04-11-2025 11:43:02 DEBUG: Treeview updated with current check-in records.
+04-11-2025 11:43:53 INFO: Updated record 0: {'name': 'Kevin', 'company': 'TGC', 'badge_id': 'Visitor 1', 'reason_of_visit': 'SUSHI', 'area': 'Kitchen', 'date': '04-11-2025', 'time_in': '04-11-2025 11:42:59', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1142.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1142.png'}
+04-11-2025 11:44:00 INFO: Updated record 0: {'name': 'Kevin', 'company': 'TGC', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Visitor 1', 'area': 'Kitchen', 'date': '04-11-2025', 'time_in': '04-11-2025 11:42:59', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1142.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1142.png'}
+04-11-2025 11:44:27 DEBUG: Processing check-out.
+04-11-2025 11:44:30 INFO: Guest checked out: {'name': 'Kevin', 'company': 'TGC', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Visitor 1', 'area': 'Kitchen', 'date': '04-11-2025', 'time_in': '04-11-2025 11:42:59', 'time_out': '04-11-2025 11:44:27', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1142.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1142.png'}
+04-11-2025 11:44:30 DEBUG: Treeview updated with current check-in records.
+04-11-2025 11:45:15 INFO: Starting face capture.
+04-11-2025 11:45:20 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1145.png
+04-11-2025 11:45:20 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1145.png
+04-11-2025 11:45:22 INFO: Starting driver license capture.
+04-11-2025 11:45:25 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1145.png
+04-11-2025 11:45:27 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1145.png
+04-11-2025 11:45:28 DEBUG: Processing check-in.
+04-11-2025 11:45:28 INFO: Guest record created: {'name': 'Kevin', 'company': 'nn', 'badge_id': 'Visitor 1', 'reason_of_visit': 'SUSHI', 'area': 'Kitchen, Warehouse, Otoro Meeting room', 'date': '04-11-2025', 'time_in': '04-11-2025 11:45:28', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1145.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1145.png'}
+04-11-2025 11:45:28 INFO: Preparing email notification for guest: Kevin
+04-11-2025 11:45:28 DEBUG: Attached email text content.
+04-11-2025 11:45:28 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1145.png
+04-11-2025 11:45:28 DEBUG: Connecting to SMTP server.
+04-11-2025 11:45:30 INFO: Email sent successfully with attachment.
+04-11-2025 11:45:30 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: SUSHI
+04-11-2025 11:45:31 DEBUG: Fields cleared after check-in.
+04-11-2025 11:45:31 DEBUG: Treeview updated with current check-in records.
+04-11-2025 11:46:08 INFO: Application closed.
+04-11-2025 11:51:04 INFO: Application started.
+04-11-2025 11:51:04 INFO: Starting the Guest Check-In Application.
+04-11-2025 11:51:04 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 11:51:04 DEBUG: Widgets created.
+04-11-2025 11:52:09 INFO: Application closed.
+04-11-2025 11:57:20 INFO: Application started.
+04-11-2025 11:57:20 INFO: Starting the Guest Check-In Application.
+04-11-2025 11:57:20 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 11:57:20 DEBUG: Widgets created.
+04-11-2025 11:57:41 INFO: Application closed.
+04-11-2025 12:05:07 INFO: Application started.
+04-11-2025 12:05:07 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:05:07 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:05:07 DEBUG: Widgets created.
+04-11-2025 12:05:15 INFO: Admin window opened.
+04-11-2025 12:05:16 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:05:31 INFO: Admin window opened.
+04-11-2025 12:05:33 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:05:38 INFO: Application closed.
+04-11-2025 12:07:08 INFO: Application started.
+04-11-2025 12:07:08 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:07:08 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:07:08 DEBUG: Widgets created.
+04-11-2025 12:07:10 INFO: Admin window opened.
+04-11-2025 12:07:14 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:08:30 INFO: Application closed.
+04-11-2025 12:12:49 INFO: Application started.
+04-11-2025 12:12:49 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:12:49 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:12:49 DEBUG: Widgets created.
+04-11-2025 12:13:14 INFO: Starting face capture.
+04-11-2025 12:13:18 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1213.png
+04-11-2025 12:13:19 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1213.png
+04-11-2025 12:13:21 INFO: Starting driver license capture.
+04-11-2025 12:13:26 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1213.png
+04-11-2025 12:13:27 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1213.png
+04-11-2025 12:13:29 DEBUG: Processing check-in.
+04-11-2025 12:13:29 INFO: Guest record created: {'name': 'kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'SUSHI', 'area': 'Kitchen', 'date': '04-11-2025', 'time_in': '04-11-2025 12:13:29', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1213.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1213.png'}
+04-11-2025 12:13:29 INFO: Preparing email notification for guest: kevin
+04-11-2025 12:13:29 DEBUG: Attached email text content.
+04-11-2025 12:13:29 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1213.png
+04-11-2025 12:13:29 DEBUG: Connecting to SMTP server.
+04-11-2025 12:13:32 INFO: Email sent successfully with attachment.
+04-11-2025 12:13:32 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: SUSHI
+04-11-2025 12:16:28 INFO: Application started.
+04-11-2025 12:16:28 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:16:28 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:16:28 DEBUG: Widgets created.
+04-11-2025 12:16:37 INFO: Starting face capture.
+04-11-2025 12:16:44 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1216.png
+04-11-2025 12:16:44 INFO: Starting driver license capture.
+04-11-2025 12:16:46 INFO: Starting driver license capture.
+04-11-2025 12:16:54 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1216.png
+04-11-2025 12:16:55 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1216.png
+04-11-2025 12:17:00 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1217.png
+04-11-2025 12:17:01 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1217.png
+04-11-2025 12:17:02 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1216.png
+04-11-2025 12:17:04 DEBUG: Processing check-in.
+04-11-2025 12:17:04 INFO: Guest record created: {'name': 'kevin', 'company': 'qn', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dfdsfd', 'area': 'dsfsdfc', 'date': '04-11-2025', 'time_in': '04-11-2025 12:17:04', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1216.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1217.png'}
+04-11-2025 12:17:04 INFO: Preparing email notification for guest: kevin
+04-11-2025 12:17:04 DEBUG: Attached email text content.
+04-11-2025 12:17:04 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1216.png
+04-11-2025 12:17:04 DEBUG: Connecting to SMTP server.
+04-11-2025 12:17:06 INFO: Email sent successfully with attachment.
+04-11-2025 12:17:06 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: dfdsfd
+04-11-2025 12:17:08 DEBUG: Fields cleared after check-in.
+04-11-2025 12:17:08 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:17:17 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:17:33 INFO: Admin window opened.
+04-11-2025 12:17:34 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:17:52 INFO: Starting face capture.
+04-11-2025 12:17:56 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1217.png
+04-11-2025 12:17:57 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1217.png
+04-11-2025 12:17:58 INFO: Starting driver license capture.
+04-11-2025 12:18:02 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1218.png
+04-11-2025 12:18:02 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1218.png
+04-11-2025 12:18:03 DEBUG: Processing check-in.
+04-11-2025 12:18:03 INFO: Guest record created: {'name': 'kd', 'company': 'dsgf', 'badge_id': 'Visitor 2', 'reason_of_visit': 'dsafg', 'area': 'dsfadf', 'date': '04-11-2025', 'time_in': '04-11-2025 12:18:03', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1217.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1218.png'}
+04-11-2025 12:18:03 INFO: Preparing email notification for guest: kd
+04-11-2025 12:18:03 DEBUG: Attached email text content.
+04-11-2025 12:18:03 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1217.png
+04-11-2025 12:18:03 DEBUG: Connecting to SMTP server.
+04-11-2025 12:18:05 INFO: Email sent successfully with attachment.
+04-11-2025 12:18:05 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kd has just checked in.
+Reason of Visit: dsafg
+04-11-2025 12:18:06 DEBUG: Fields cleared after check-in.
+04-11-2025 12:18:06 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:18:17 INFO: Starting face capture.
+04-11-2025 12:18:23 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1218.png
+04-11-2025 12:18:25 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1218.png
+04-11-2025 12:18:26 INFO: Starting driver license capture.
+04-11-2025 12:18:30 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1218.png
+04-11-2025 12:18:32 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1218.png
+04-11-2025 12:18:33 DEBUG: Processing check-in.
+04-11-2025 12:18:33 INFO: Guest record created: {'name': 'cc', 'company': 'cc', 'badge_id': 'Visitor 2', 'reason_of_visit': 'cc', 'area': 'cc', 'date': '04-11-2025', 'time_in': '04-11-2025 12:18:33', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1218.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1218.png'}
+04-11-2025 12:18:33 INFO: Preparing email notification for guest: cc
+04-11-2025 12:18:33 DEBUG: Attached email text content.
+04-11-2025 12:18:33 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1218.png
+04-11-2025 12:18:33 DEBUG: Connecting to SMTP server.
+04-11-2025 12:18:35 INFO: Email sent successfully with attachment.
+04-11-2025 12:18:35 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest cc has just checked in.
+Reason of Visit: cc
+04-11-2025 12:18:36 DEBUG: Fields cleared after check-in.
+04-11-2025 12:18:36 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:21:54 INFO: Application closed.
+04-11-2025 12:26:23 INFO: Application started.
+04-11-2025 12:26:23 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:26:23 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:26:23 DEBUG: Widgets created.
+04-11-2025 12:26:27 INFO: Admin window opened.
+04-11-2025 12:26:28 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:26:43 INFO: Admin window opened.
+04-11-2025 12:26:45 INFO: Badge Inventory button clicked from admin menu.
+04-11-2025 12:27:26 INFO: Application closed.
+04-11-2025 12:32:25 INFO: Application started.
+04-11-2025 12:32:25 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:32:25 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:32:25 DEBUG: Widgets created.
+04-11-2025 12:32:36 INFO: Starting face capture.
+04-11-2025 12:32:40 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1232.png
+04-11-2025 12:32:41 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1232.png
+04-11-2025 12:32:42 INFO: Starting driver license capture.
+04-11-2025 12:32:45 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1232.png
+04-11-2025 12:32:47 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1232.png
+04-11-2025 12:32:49 DEBUG: Processing check-in.
+04-11-2025 12:32:49 INFO: Guest record created: {'name': 'djlsjnljg', 'company': 'snljdfvnsa', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dsfsadfs', 'area': 'dsafdsafdwswf', 'date': '04-11-2025', 'time_in': '04-11-2025 12:32:49', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1232.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1232.png'}
+04-11-2025 12:32:49 INFO: Preparing email notification for guest: djlsjnljg
+04-11-2025 12:32:49 DEBUG: Attached email text content.
+04-11-2025 12:32:49 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1232.png
+04-11-2025 12:32:49 DEBUG: Connecting to SMTP server.
+04-11-2025 12:32:51 INFO: Email sent successfully with attachment.
+04-11-2025 12:32:51 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest djlsjnljg has just checked in.
+Reason of Visit: dsfsadfs
+04-11-2025 12:32:52 DEBUG: Fields cleared after check-in.
+04-11-2025 12:32:52 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:35:42 INFO: Application closed.
+04-11-2025 12:35:46 INFO: Application started.
+04-11-2025 12:35:46 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:35:46 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:35:46 DEBUG: Widgets created.
+04-11-2025 12:35:56 INFO: Starting face capture.
+04-11-2025 12:36:01 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1236.png
+04-11-2025 12:36:03 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1236.png
+04-11-2025 12:36:03 INFO: Starting driver license capture.
+04-11-2025 12:36:07 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1236.png
+04-11-2025 12:36:08 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1236.png
+04-11-2025 12:36:11 DEBUG: Processing check-in.
+04-11-2025 12:36:11 INFO: Guest record created: {'name': 'cxvgbgfxbg', 'company': 'dfdfbgvdfgb', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dfghbdgfhb', 'area': 'gfdhdhb', 'date': '04-11-2025', 'time_in': '04-11-2025 12:36:11', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1236.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1236.png'}
+04-11-2025 12:36:11 INFO: Preparing email notification for guest: cxvgbgfxbg
+04-11-2025 12:36:11 DEBUG: Attached email text content.
+04-11-2025 12:36:11 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1236.png
+04-11-2025 12:36:11 DEBUG: Connecting to SMTP server.
+04-11-2025 12:36:13 INFO: Email sent successfully with attachment.
+04-11-2025 12:36:13 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest cxvgbgfxbg has just checked in.
+Reason of Visit: dfghbdgfhb
+04-11-2025 12:36:14 DEBUG: Fields cleared after check-in.
+04-11-2025 12:36:14 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:37:04 INFO: Application closed.
+04-11-2025 12:37:04 INFO: Application started.
+04-11-2025 12:37:04 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:37:04 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:37:04 DEBUG: Widgets created.
+04-11-2025 12:37:10 INFO: Starting face capture.
+04-11-2025 12:37:15 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1237.png
+04-11-2025 12:37:17 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1237.png
+04-11-2025 12:37:18 INFO: Starting driver license capture.
+04-11-2025 12:37:22 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1237.png
+04-11-2025 12:37:23 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1237.png
+04-11-2025 12:37:24 DEBUG: Processing check-in.
+04-11-2025 12:37:24 INFO: Guest record created: {'name': 'ffsdg', 'company': 'dsgsdfgdsf', 'badge_id': 'Visitor 1', 'reason_of_visit': 'fdgsdfg', 'area': 'fgdsgsdg', 'date': '04-11-2025', 'time_in': '04-11-2025 12:37:24', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1237.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1237.png'}
+04-11-2025 12:37:24 INFO: Preparing email notification for guest: ffsdg
+04-11-2025 12:37:24 DEBUG: Attached email text content.
+04-11-2025 12:37:24 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1237.png
+04-11-2025 12:37:24 DEBUG: Connecting to SMTP server.
+04-11-2025 12:37:26 INFO: Email sent successfully with attachment.
+04-11-2025 12:37:26 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest ffsdg has just checked in.
+Reason of Visit: fdgsdfg
+04-11-2025 12:37:28 DEBUG: Fields cleared after check-in.
+04-11-2025 12:37:28 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:38:30 INFO: Application closed.
+04-11-2025 12:38:32 INFO: Application started.
+04-11-2025 12:38:32 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:38:32 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:38:32 DEBUG: Widgets created.
+04-11-2025 12:38:38 INFO: Starting face capture.
+04-11-2025 12:38:54 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1238.png
+04-11-2025 12:38:55 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1238.png
+04-11-2025 12:38:58 INFO: Starting driver license capture.
+04-11-2025 12:39:02 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1239.png
+04-11-2025 12:39:03 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1239.png
+04-11-2025 12:39:05 DEBUG: Processing check-in.
+04-11-2025 12:39:05 INFO: Guest record created: {'name': 'fgdgdfgfd', 'company': 'sdfggdfgds', 'badge_id': 'Visitor 1', 'reason_of_visit': 'fdsgdsfgfds', 'area': 'dfgsgsdfxg', 'date': '04-11-2025', 'time_in': '04-11-2025 12:39:05', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1238.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1239.png'}
+04-11-2025 12:39:05 INFO: Preparing email notification for guest: fgdgdfgfd
+04-11-2025 12:39:05 DEBUG: Attached email text content.
+04-11-2025 12:39:05 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1238.png
+04-11-2025 12:39:05 DEBUG: Connecting to SMTP server.
+04-11-2025 12:39:07 INFO: Email sent successfully with attachment.
+04-11-2025 12:39:07 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest fgdgdfgfd has just checked in.
+Reason of Visit: fdsgdsfgfds
+04-11-2025 12:39:08 DEBUG: Fields cleared after check-in.
+04-11-2025 12:39:08 DEBUG: Treeview updated with current check-in records.
+04-11-2025 12:39:27 INFO: Application closed.
+04-11-2025 12:41:38 INFO: Application started.
+04-11-2025 12:41:38 INFO: Starting the Guest Check-In Application.
+04-11-2025 12:41:38 DEBUG: Initializing GuestCheckInApp UI.
+04-11-2025 12:41:38 DEBUG: Widgets created.
+04-11-2025 12:41:45 INFO: Starting face capture.
+04-11-2025 12:41:49 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1241.png
+04-11-2025 12:41:50 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1241.png
+04-11-2025 12:41:51 INFO: Starting driver license capture.
+04-11-2025 12:41:55 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1241.png
+04-11-2025 12:41:56 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-11-2025_1241.png
+04-11-2025 12:42:16 DEBUG: Processing check-in.
+04-11-2025 12:42:16 INFO: Guest record created: {'name': 'dggdxfch', 'company': 'ghhdfh', 'badge_id': 'Visitor 1', 'reason_of_visit': 'gfdhfghf', 'area': 'gfhfdh', 'date': '04-11-2025', 'time_in': '04-11-2025 12:42:16', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-11-2025_1241.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-11-2025_1241.png'}
+04-11-2025 12:42:16 INFO: Preparing email notification for guest: dggdxfch
+04-11-2025 12:42:16 DEBUG: Attached email text content.
+04-11-2025 12:42:16 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-11-2025_1241.png
+04-11-2025 12:42:16 DEBUG: Connecting to SMTP server.
+04-11-2025 12:42:18 INFO: Email sent successfully with attachment.
+04-11-2025 12:42:18 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest dggdxfch has just checked in.
+Reason of Visit: gfdhfghf
+04-11-2025 12:42:19 DEBUG: Fields cleared after check-in.
+04-11-2025 12:42:19 DEBUG: Treeview updated with current check-in records.
+04-14-2025 09:52:22 DEBUG: Processing check-out.
+04-14-2025 09:52:24 WARNING: Check-out aborted due to missing Badge ID.
+04-14-2025 09:58:10 INFO: Application closed.
+04-14-2025 10:00:41 INFO: Application started.
+04-14-2025 10:00:41 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:00:42 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:00:42 DEBUG: Widgets created.
+04-14-2025 10:00:43 INFO: Admin window opened.
+04-14-2025 10:00:44 INFO: Admin window opened.
+04-14-2025 10:00:44 INFO: Admin window opened.
+04-14-2025 10:01:10 INFO: Application closed.
+04-14-2025 10:02:41 INFO: Application started.
+04-14-2025 10:02:41 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:02:41 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:02:41 DEBUG: Widgets created.
+04-14-2025 10:02:43 INFO: Admin window opened.
+04-14-2025 10:02:44 INFO: Admin window opened.
+04-14-2025 10:02:44 INFO: Admin window opened.
+04-14-2025 10:02:48 INFO: Application closed.
+04-14-2025 10:02:56 INFO: Application started.
+04-14-2025 10:02:56 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:02:56 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:02:56 DEBUG: Widgets created.
+04-14-2025 10:02:57 INFO: Admin window opened.
+04-14-2025 10:02:58 INFO: Admin window opened.
+04-14-2025 10:02:58 INFO: Admin window opened.
+04-14-2025 10:03:01 INFO: Application closed.
+04-14-2025 10:07:50 INFO: Application started.
+04-14-2025 10:07:50 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:07:50 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:07:50 DEBUG: Widgets created.
+04-14-2025 10:07:52 INFO: Admin window opened.
+04-14-2025 10:07:54 INFO: Admin window opened.
+04-14-2025 10:07:54 INFO: Admin window opened.
+04-14-2025 10:07:55 INFO: Admin window opened.
+04-14-2025 10:07:55 INFO: Admin window opened.
+04-14-2025 10:07:55 INFO: Admin window opened.
+04-14-2025 10:07:57 INFO: Application closed.
+04-14-2025 10:08:04 INFO: Application started.
+04-14-2025 10:08:04 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:08:04 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:08:04 DEBUG: Widgets created.
+04-14-2025 10:08:07 INFO: Admin window opened.
+04-14-2025 10:08:08 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:12 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:12 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:12 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:12 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:12 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 10:08:15 INFO: Application closed.
+04-14-2025 10:52:14 INFO: Application started.
+04-14-2025 10:52:14 INFO: Starting the Guest Check-In Application.
+04-14-2025 10:52:14 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 10:52:14 DEBUG: Widgets created.
+04-14-2025 10:52:27 INFO: Starting face capture.
+04-14-2025 10:52:31 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1052.png
+04-14-2025 10:52:33 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1052.png
+04-14-2025 10:52:34 INFO: Starting driver license capture.
+04-14-2025 10:52:38 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1052.png
+04-14-2025 10:52:40 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1052.png
+04-14-2025 10:52:43 DEBUG: Processing check-in.
+04-14-2025 10:52:43 INFO: Guest record created: {'name': 'f', 'company': 'f', 'badge_id': 'Visitor 1', 'reason_of_visit': 'f', 'area': 'f', 'date': '04-14-2025', 'time_in': '04-14-2025 10:52:43', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1052.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1052.png'}
+04-14-2025 10:52:43 INFO: Preparing email notification for guest: f
+04-14-2025 10:52:43 DEBUG: Attached email text content.
+04-14-2025 10:52:43 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1052.png
+04-14-2025 10:52:43 DEBUG: Connecting to SMTP server.
+04-14-2025 10:52:45 INFO: Email sent successfully with attachment.
+04-14-2025 10:52:45 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest f has just checked in.
+Reason of Visit: f
+04-14-2025 10:52:46 DEBUG: Fields cleared after check-in.
+04-14-2025 10:52:46 DEBUG: Treeview updated with current check-in records.
+04-14-2025 10:53:27 INFO: Application closed.
+04-14-2025 11:04:48 INFO: Application started.
+04-14-2025 11:04:48 INFO: Starting the Guest Check-In Application.
+04-14-2025 11:04:48 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 11:04:48 DEBUG: Widgets created.
+04-14-2025 11:04:56 INFO: Starting face capture.
+04-14-2025 11:05:00 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:02 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:03 INFO: Starting driver license capture.
+04-14-2025 11:05:07 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1105.png
+04-14-2025 11:05:08 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1105.png
+04-14-2025 11:05:11 DEBUG: Processing check-in.
+04-14-2025 11:05:11 INFO: Guest record created: {'name': 'f', 'company': 'f', 'badge_id': 'Visitor 1', 'reason_of_visit': 'f', 'area': 'f', 'date': '04-14-2025', 'time_in': '04-14-2025 11:05:11', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1105.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1105.png'}
+04-14-2025 11:05:11 INFO: Preparing email notification for guest: f
+04-14-2025 11:05:11 DEBUG: Attached email text content.
+04-14-2025 11:05:11 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:11 DEBUG: Connecting to SMTP server.
+04-14-2025 11:05:13 INFO: Email sent successfully with attachment.
+04-14-2025 11:05:13 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest f has just checked in.
+Reason of Visit: f
+04-14-2025 11:05:15 DEBUG: Fields cleared after check-in.
+04-14-2025 11:05:15 DEBUG: Treeview updated with current check-in records.
+04-14-2025 11:05:24 INFO: Guest checked out: {'name': 'f', 'company': 'f', 'badge_id': 'Visitor 1', 'reason_of_visit': 'f', 'area': 'f', 'date': '04-14-2025', 'time_in': '04-14-2025 11:05:11', 'time_out': '04-14-2025 11:05:20', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1105.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1105.png'}
+04-14-2025 11:05:24 DEBUG: Treeview updated with current check-in records.
+04-14-2025 11:05:30 INFO: Starting face capture.
+04-14-2025 11:05:36 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:38 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:39 INFO: Starting driver license capture.
+04-14-2025 11:05:43 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1105.png
+04-14-2025 11:05:44 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1105.png
+04-14-2025 11:05:45 DEBUG: Processing check-in.
+04-14-2025 11:05:45 INFO: Guest record created: {'name': 'd', 'company': 'd', 'badge_id': 'Visitor 1', 'reason_of_visit': 'd', 'area': 'd', 'date': '04-14-2025', 'time_in': '04-14-2025 11:05:45', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1105.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1105.png'}
+04-14-2025 11:05:45 INFO: Preparing email notification for guest: d
+04-14-2025 11:05:45 DEBUG: Attached email text content.
+04-14-2025 11:05:45 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1105.png
+04-14-2025 11:05:45 DEBUG: Connecting to SMTP server.
+04-14-2025 11:05:47 INFO: Email sent successfully with attachment.
+04-14-2025 11:05:47 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest d has just checked in.
+Reason of Visit: d
+04-14-2025 11:05:49 DEBUG: Fields cleared after check-in.
+04-14-2025 11:05:49 DEBUG: Treeview updated with current check-in records.
+04-14-2025 11:05:56 WARNING: Check-out aborted: No selection in treeview.
+04-14-2025 11:06:02 INFO: Guest checked out: {'name': 'd', 'company': 'd', 'badge_id': 'Visitor 1', 'reason_of_visit': 'd', 'area': 'd', 'date': '04-14-2025', 'time_in': '04-14-2025 11:05:45', 'time_out': '04-14-2025 11:06:00', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1105.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1105.png'}
+04-14-2025 11:06:02 DEBUG: Treeview updated with current check-in records.
+04-14-2025 11:06:30 INFO: Application closed.
+04-14-2025 14:05:18 INFO: Application started.
+04-14-2025 14:05:18 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:05:18 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:05:18 DEBUG: Widgets created.
+04-14-2025 14:05:59 INFO: Starting face capture.
+04-14-2025 14:06:04 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1406.png
+04-14-2025 14:06:08 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1406.png
+04-14-2025 14:06:11 INFO: Starting driver license capture.
+04-14-2025 14:06:19 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1406.png
+04-14-2025 14:06:21 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1406.png
+04-14-2025 14:06:30 DEBUG: Processing check-in.
+04-14-2025 14:06:30 INFO: Guest record created: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dgfsdf', 'area': 'fgdgd', 'date': '04-14-2025', 'time_in': '04-14-2025 14:06:30', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1406.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1406.png'}
+04-14-2025 14:06:30 INFO: Preparing email notification for guest: kevin
+04-14-2025 14:06:30 DEBUG: Attached email text content.
+04-14-2025 14:06:30 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1406.png
+04-14-2025 14:06:30 DEBUG: Connecting to SMTP server.
+04-14-2025 14:06:32 INFO: Email sent successfully with attachment.
+04-14-2025 14:06:32 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: dgfsdf
+04-14-2025 14:06:33 DEBUG: Fields cleared after check-in.
+04-14-2025 14:06:33 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:07:02 INFO: Guest checked out: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dgfsdf', 'area': 'fgdgd', 'date': '04-14-2025', 'time_in': '04-14-2025 14:06:30', 'time_out': '04-14-2025 14:07:00', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1406.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1406.png'}
+04-14-2025 14:07:02 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:07:51 INFO: Application closed.
+04-14-2025 14:07:52 INFO: Application started.
+04-14-2025 14:07:52 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:07:52 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:07:52 DEBUG: Widgets created.
+04-14-2025 14:08:00 INFO: Starting face capture.
+04-14-2025 14:08:06 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1408.png
+04-14-2025 14:08:07 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1408.png
+04-14-2025 14:08:09 INFO: Starting driver license capture.
+04-14-2025 14:08:12 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1408.png
+04-14-2025 14:08:14 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1408.png
+04-14-2025 14:08:19 DEBUG: Processing check-in.
+04-14-2025 14:08:19 INFO: Guest record created: {'name': 'vb vc', 'company': 'vbcx', 'badge_id': 'Visitor 1', 'reason_of_visit': 'vcxbcx', 'area': 'vbxvc', 'date': '04-14-2025', 'time_in': '04-14-2025 14:08:19', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1408.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1408.png'}
+04-14-2025 14:08:19 INFO: Preparing email notification for guest: vb vc
+04-14-2025 14:08:19 DEBUG: Attached email text content.
+04-14-2025 14:08:19 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1408.png
+04-14-2025 14:08:19 DEBUG: Connecting to SMTP server.
+04-14-2025 14:08:21 INFO: Email sent successfully with attachment.
+04-14-2025 14:08:21 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest vb vc has just checked in.
+Reason of Visit: vcxbcx
+04-14-2025 14:08:22 DEBUG: Fields cleared after check-in.
+04-14-2025 14:08:22 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:09:20 INFO: Guest checked out: {'name': 'vb vc', 'company': 'vbcx', 'badge_id': 'Visitor 1', 'reason_of_visit': 'vcxbcx', 'area': 'vbxvc', 'date': '04-14-2025', 'time_in': '04-14-2025 14:08:19', 'time_out': '04-14-2025 14:09:19', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1408.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1408.png'}
+04-14-2025 14:09:20 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:09:24 INFO: Application closed.
+04-14-2025 14:27:25 INFO: Application started.
+04-14-2025 14:27:25 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:28:50 INFO: Application started.
+04-14-2025 14:28:50 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:28:50 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:28:50 DEBUG: Widgets created.
+04-14-2025 14:29:37 INFO: Starting face capture.
+04-14-2025 14:29:42 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1429.png
+04-14-2025 14:29:44 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1429.png
+04-14-2025 14:29:45 INFO: Starting driver license capture.
+04-14-2025 14:29:50 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1429.png
+04-14-2025 14:29:51 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1429.png
+04-14-2025 14:29:53 DEBUG: Processing check-in.
+04-14-2025 14:29:53 INFO: Guest record created: {'name': 'Kevin Nguyen', 'company': 'Tokyo Gardens Company', 'badge_id': 'Contractor 1', 'reason_of_visit': 'Install server rack', 'area': 'Server Room', 'date': '04-14-2025', 'time_in': '04-14-2025 14:29:53', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1429.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1429.png'}
+04-14-2025 14:29:53 INFO: Check-in records saved successfully.
+04-14-2025 14:29:53 INFO: Preparing email notification for guest: Kevin Nguyen
+04-14-2025 14:29:53 DEBUG: Attached email text content.
+04-14-2025 14:29:53 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1429.png
+04-14-2025 14:29:53 DEBUG: Connecting to SMTP server.
+04-14-2025 14:29:55 INFO: Email sent successfully with attachment.
+04-14-2025 14:29:55 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin Nguyen has just checked in.
+Reason of Visit: Install server rack
+04-14-2025 14:29:57 DEBUG: Fields cleared after check-in.
+04-14-2025 14:29:57 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:30:19 INFO: Application closed.
+04-14-2025 14:30:23 INFO: Application started.
+04-14-2025 14:30:23 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:30:23 INFO: Check-in records loaded successfully.
+04-14-2025 14:30:23 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:30:23 DEBUG: Widgets created.
+04-14-2025 14:30:31 INFO: Application closed.
+04-14-2025 14:31:05 INFO: Application started.
+04-14-2025 14:31:05 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:31:05 INFO: Check-in records loaded successfully.
+04-14-2025 14:31:05 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:31:05 DEBUG: Widgets created.
+04-14-2025 14:31:08 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:31:13 INFO: Application closed.
+04-14-2025 14:32:36 INFO: Application started.
+04-14-2025 14:32:36 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:32:36 INFO: Check-in records loaded successfully.
+04-14-2025 14:32:36 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:32:36 DEBUG: Widgets created.
+04-14-2025 14:32:39 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:32:40 INFO: Application closed.
+04-14-2025 14:34:03 INFO: Application started.
+04-14-2025 14:34:03 INFO: Starting the Guest Check-In Application.
+04-14-2025 14:34:03 INFO: Check-in records loaded successfully.
+04-14-2025 14:34:03 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14:34:03 DEBUG: Widgets created.
+04-14-2025 14:34:05 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14:34:06 INFO: Application closed.
+04-14-2025 14-39-42 INFO: Application started.
+04-14-2025 14-39-42 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-39-42 INFO: Check-in records loaded successfully.
+04-14-2025 14-39-42 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-39-42 DEBUG: Widgets created.
+04-14-2025 14-39-42 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-39-49 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-39-56 INFO: Guest checked out: {'name': 'Kevin Nguyen', 'company': 'Tokyo Gardens Company', 'badge_id': 'Contractor 1', 'reason_of_visit': 'Install server rack', 'area': 'Server Room', 'date': '04-14-2025', 'time_in': '04-14-2025 14:29:53', 'time_out': '04-14-2025 14:39:54', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1429.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1429.png'}
+04-14-2025 14-39-56 INFO: Check-in records saved successfully.
+04-14-2025 14-39-56 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-39-57 INFO: Application closed.
+04-14-2025 14-40-07 INFO: Application started.
+04-14-2025 14-40-07 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-40-07 INFO: Check-in records loaded successfully.
+04-14-2025 14-40-07 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-40-07 DEBUG: Widgets created.
+04-14-2025 14-40-07 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-40-10 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-40-13 INFO: Application closed.
+04-14-2025 14-40-35 INFO: Application started.
+04-14-2025 14-40-35 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-40-35 INFO: Check-in records loaded successfully.
+04-14-2025 14-40-35 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-40-35 DEBUG: Widgets created.
+04-14-2025 14-40-35 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-40-42 INFO: Application closed.
+04-14-2025 14-41-16 INFO: Application started.
+04-14-2025 14-41-16 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-41-16 INFO: Check-in records loaded successfully.
+04-14-2025 14-41-16 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-41-16 DEBUG: Widgets created.
+04-14-2025 14-41-16 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-41-53 INFO: Starting face capture.
+04-14-2025 14-42-00 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1442.png
+04-14-2025 14-42-01 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1442.png
+04-14-2025 14-42-02 INFO: Starting driver license capture.
+04-14-2025 14-42-06 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1442.png
+04-14-2025 14-42-07 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1442.png
+04-14-2025 14-42-08 DEBUG: Processing check-in.
+04-14-2025 14-42-08 INFO: Guest record created: {'name': 'Kevin Nguyen', 'company': 'Tokyo Gardens Company', 'badge_id': 'Visitor 1', 'reason_of_visit': 'To install server rack', 'area': 'Server Room', 'date': '04-14-2025', 'time_in': '04-14-2025 14:42:08', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1442.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1442.png'}
+04-14-2025 14-42-08 INFO: Preparing email notification for guest: Kevin Nguyen
+04-14-2025 14-42-08 DEBUG: Attached email text content.
+04-14-2025 14-42-08 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1442.png
+04-14-2025 14-42-08 DEBUG: Connecting to SMTP server.
+04-14-2025 14-42-10 INFO: Email sent successfully with attachment.
+04-14-2025 14-42-10 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin Nguyen has just checked in.
+Reason of Visit: To install server rack
+04-14-2025 14-42-11 DEBUG: Fields cleared after check-in.
+04-14-2025 14-42-11 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-42-11 INFO: Check-in records saved successfully.
+04-14-2025 14-42-13 INFO: Application closed.
+04-14-2025 14-42-16 INFO: Application started.
+04-14-2025 14-42-16 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-42-16 INFO: Check-in records loaded successfully.
+04-14-2025 14-42-16 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-42-16 DEBUG: Widgets created.
+04-14-2025 14-42-16 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-42-18 INFO: Application closed.
+04-14-2025 14-42-56 INFO: Application started.
+04-14-2025 14-42-56 INFO: Starting the Guest Check-In Application.
+04-14-2025 14-42-56 INFO: Check-in records loaded successfully.
+04-14-2025 14-42-56 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 14-42-56 DEBUG: Widgets created.
+04-14-2025 14-42-56 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-43-00 INFO: Guest checked out: {'name': 'Kevin Nguyen', 'company': 'Tokyo Gardens Company', 'badge_id': 'Visitor 1', 'reason_of_visit': 'To install server rack', 'area': 'Server Room', 'date': '04-14-2025', 'time_in': '04-14-2025 14:42:08', 'time_out': '04-14-2025 14:42:59', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1442.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1442.png'}
+04-14-2025 14-43-00 INFO: Check-in records saved successfully.
+04-14-2025 14-43-00 DEBUG: Treeview updated with current check-in records.
+04-14-2025 14-43-02 INFO: Application closed.
+04-14-2025 15-06-19 INFO: Application started.
+04-14-2025 15-06-19 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-06-19 INFO: Check-in records loaded successfully.
+04-14-2025 15-06-19 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-06-19 DEBUG: Widgets created.
+04-14-2025 15-06-19 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-06-32 INFO: Starting face capture.
+04-14-2025 15-06-35 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1506.png
+04-14-2025 15-06-37 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1506.png
+04-14-2025 15-06-38 INFO: Starting driver license capture.
+04-14-2025 15-06-41 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1506.png
+04-14-2025 15-06-43 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1506.png
+04-14-2025 15-06-44 DEBUG: Processing check-in.
+04-14-2025 15-06-44 INFO: Guest record created: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dfsd', 'area': 'sdfsdf', 'date': '04-14-2025', 'time_in': '04-14-2025 15:06:44', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1506.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1506.png'}
+04-14-2025 15-06-44 INFO: Preparing email notification for guest: Kevin
+04-14-2025 15-06-44 DEBUG: Attached email text content.
+04-14-2025 15-06-44 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1506.png
+04-14-2025 15-06-44 DEBUG: Connecting to SMTP server.
+04-14-2025 15-06-46 INFO: Email sent successfully with attachment.
+04-14-2025 15-06-46 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: dfsd
+04-14-2025 15-06-47 DEBUG: Fields cleared after check-in.
+04-14-2025 15-06-47 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-06-47 INFO: Check-in records saved successfully.
+04-14-2025 15-07-10 INFO: Guest checked out: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'dfsd', 'area': 'sdfsdf', 'date': '04-14-2025', 'time_in': '04-14-2025 15:06:44', 'time_out': '04-14-2025 15:07:09', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1506.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1506.png'}
+04-14-2025 15-07-10 INFO: Check-in records saved successfully.
+04-14-2025 15-07-10 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-06 INFO: Application closed.
+04-14-2025 15-10-06 INFO: Application started.
+04-14-2025 15-10-06 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-10-06 INFO: Check-in records loaded successfully.
+04-14-2025 15-10-06 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-10-06 DEBUG: Widgets created.
+04-14-2025 15-10-06 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-07 INFO: Application closed.
+04-14-2025 15-10-07 INFO: Application started.
+04-14-2025 15-10-07 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-10-07 INFO: Check-in records loaded successfully.
+04-14-2025 15-10-07 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-10-07 DEBUG: Widgets created.
+04-14-2025 15-10-07 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-08 INFO: Application closed.
+04-14-2025 15-10-10 INFO: Application started.
+04-14-2025 15-10-10 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-10-10 INFO: Check-in records loaded successfully.
+04-14-2025 15-10-10 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-10-10 DEBUG: Widgets created.
+04-14-2025 15-10-10 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-27 INFO: Starting face capture.
+04-14-2025 15-10-32 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1510.png
+04-14-2025 15-10-34 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1510.png
+04-14-2025 15-10-35 INFO: Starting driver license capture.
+04-14-2025 15-10-39 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1510.png
+04-14-2025 15-10-40 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1510.png
+04-14-2025 15-10-41 DEBUG: Processing check-in.
+04-14-2025 15-10-41 INFO: Guest record created: {'name': 'Kevin Nguyen', 'company': 'ggc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'people', 'area': 'area', 'date': '04-14-2025', 'time_in': '04-14-2025 15:10:41', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1510.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1510.png'}
+04-14-2025 15-10-41 INFO: Preparing email notification for guest: Kevin Nguyen
+04-14-2025 15-10-41 DEBUG: Attached email text content.
+04-14-2025 15-10-41 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1510.png
+04-14-2025 15-10-41 DEBUG: Connecting to SMTP server.
+04-14-2025 15-10-43 INFO: Email sent successfully with attachment.
+04-14-2025 15-10-43 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin Nguyen has just checked in.
+Reason of Visit: people
+04-14-2025 15-10-44 DEBUG: Fields cleared after check-in.
+04-14-2025 15-10-44 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-44 INFO: Check-in records saved successfully.
+04-14-2025 15-10-47 INFO: Guest checked out: {'name': 'Kevin Nguyen', 'company': 'ggc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'people', 'area': 'area', 'date': '04-14-2025', 'time_in': '04-14-2025 15:10:41', 'time_out': '04-14-2025 15:10:46', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1510.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1510.png'}
+04-14-2025 15-10-47 INFO: Check-in records saved successfully.
+04-14-2025 15-10-47 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-10-49 INFO: Application closed.
+04-14-2025 15-16-02 INFO: Application started.
+04-14-2025 15-16-02 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-16-02 INFO: Check-in records loaded successfully.
+04-14-2025 15-16-02 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-16-02 DEBUG: Widgets created.
+04-14-2025 15-16-02 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-16-33 INFO: Application closed.
+04-14-2025 15-20-05 INFO: Application started.
+04-14-2025 15-20-05 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-20-05 INFO: Check-in records loaded successfully.
+04-14-2025 15-20-05 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-20-05 DEBUG: Widgets created.
+04-14-2025 15-20-05 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-20-11 INFO: Admin window opened.
+04-14-2025 15-20-16 INFO: Application closed.
+04-14-2025 15-33-29 INFO: Application started.
+04-14-2025 15-33-29 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-33-29 INFO: Check-in records loaded successfully.
+04-14-2025 15-33-29 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-33-29 DEBUG: Widgets created.
+04-14-2025 15-33-29 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-33-31 INFO: Admin window opened.
+04-14-2025 15-33-48 INFO: Admin window opened.
+04-14-2025 15-33-56 INFO: Application closed.
+04-14-2025 15-34-21 INFO: Application started.
+04-14-2025 15-34-21 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-34-21 INFO: Check-in records loaded successfully.
+04-14-2025 15-34-21 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-34-21 DEBUG: Widgets created.
+04-14-2025 15-34-21 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-34-23 INFO: Application closed.
+04-14-2025 15-34-29 INFO: Application started.
+04-14-2025 15-34-29 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-34-29 INFO: Check-in records loaded successfully.
+04-14-2025 15-34-29 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-34-29 DEBUG: Widgets created.
+04-14-2025 15-34-29 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-34-31 INFO: Admin window opened.
+04-14-2025 15-34-43 INFO: Application closed.
+04-14-2025 15-36-44 INFO: Application started.
+04-14-2025 15-36-44 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-36-44 INFO: Check-in records loaded successfully.
+04-14-2025 15-36-44 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-36-44 DEBUG: Widgets created.
+04-14-2025 15-36-44 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-36-46 INFO: Admin window opened.
+04-14-2025 15-36-51 INFO: Application closed.
+04-14-2025 15-46-08 INFO: Application started.
+04-14-2025 15-46-08 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-46-08 INFO: Check-in records loaded successfully.
+04-14-2025 15-46-08 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-46-08 DEBUG: Widgets created.
+04-14-2025 15-46-08 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-46-11 INFO: Admin window opened.
+04-14-2025 15-46-17 INFO: Application closed.
+04-14-2025 15-47-50 INFO: Application started.
+04-14-2025 15-47-52 INFO: SMTP settings updated successfully.
+04-14-2025 15-47-52 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-47-52 INFO: Check-in records loaded successfully.
+04-14-2025 15-47-52 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-47-52 DEBUG: Widgets created.
+04-14-2025 15-47-52 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-47-57 INFO: Application closed.
+04-14-2025 15-48-00 INFO: Application started.
+04-14-2025 15-48-02 INFO: SMTP settings updated successfully.
+04-14-2025 15-48-02 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-48-02 INFO: Check-in records loaded successfully.
+04-14-2025 15-48-02 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-48-02 DEBUG: Widgets created.
+04-14-2025 15-48-02 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-48-20 INFO: Application closed.
+04-14-2025 15-48-20 INFO: Application started.
+04-14-2025 15-48-20 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-48-20 INFO: Check-in records loaded successfully.
+04-14-2025 15-48-20 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-48-20 DEBUG: Widgets created.
+04-14-2025 15-48-20 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-48-21 INFO: Application closed.
+04-14-2025 15-48-23 INFO: Application started.
+04-14-2025 15-48-23 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-48-23 INFO: Check-in records loaded successfully.
+04-14-2025 15-48-23 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-48-23 DEBUG: Widgets created.
+04-14-2025 15-48-23 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-48-24 INFO: Admin window opened.
+04-14-2025 15-48-32 INFO: Application closed.
+04-14-2025 15-49-16 INFO: Application started.
+04-14-2025 15-49-16 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-49-16 INFO: Check-in records loaded successfully.
+04-14-2025 15-49-16 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-49-16 DEBUG: Widgets created.
+04-14-2025 15-49-16 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-49-17 INFO: Admin window opened.
+04-14-2025 15-51-54 INFO: Application closed.
+04-14-2025 15-53-00 INFO: Application started.
+04-14-2025 15-53-00 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-53-00 INFO: Check-in records loaded successfully.
+04-14-2025 15-53-00 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-53-00 DEBUG: Widgets created.
+04-14-2025 15-53-00 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-53-02 INFO: Admin window opened.
+04-14-2025 15-53-08 INFO: Application closed.
+04-14-2025 15-58-21 INFO: Application started.
+04-14-2025 15-58-21 INFO: Starting the Guest Check-In Application.
+04-14-2025 15-58-21 INFO: Check-in records loaded successfully.
+04-14-2025 15-58-21 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 15-58-21 DEBUG: Widgets created.
+04-14-2025 15-58-21 DEBUG: Treeview updated with current check-in records.
+04-14-2025 15-58-24 INFO: Admin window opened.
+04-14-2025 15-58-37 INFO: Application closed.
+04-14-2025 16-01-36 INFO: Application started.
+04-14-2025 16-01-36 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-01-36 INFO: Check-in records loaded successfully.
+04-14-2025 16-01-36 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-01-36 DEBUG: Widgets created.
+04-14-2025 16-01-36 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-01-38 INFO: Admin window opened.
+04-14-2025 16-01-44 INFO: Application closed.
+04-14-2025 16-07-38 INFO: Application started.
+04-14-2025 16-07-38 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-07-38 INFO: Check-in records loaded successfully.
+04-14-2025 16-07-38 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-07-38 DEBUG: Widgets created.
+04-14-2025 16-07-38 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-07-39 INFO: Admin window opened.
+04-14-2025 16-08-01 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 16-08-03 INFO: Badge Inventory button clicked from admin menu.
+04-14-2025 16-08-05 INFO: Admin window opened.
+04-14-2025 16-08-08 INFO: Application closed.
+04-14-2025 16-09-26 INFO: Application started.
+04-14-2025 16-09-26 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-09-27 INFO: Check-in records loaded successfully.
+04-14-2025 16-09-27 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-09-27 DEBUG: Widgets created.
+04-14-2025 16-09-27 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-09-28 INFO: Admin window opened.
+04-14-2025 16-09-35 INFO: Application closed.
+04-14-2025 16-10-02 INFO: Application started.
+04-14-2025 16-10-02 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-10-02 INFO: Check-in records loaded successfully.
+04-14-2025 16-10-02 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-10-02 DEBUG: Widgets created.
+04-14-2025 16-10-02 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-10-03 INFO: Admin window opened.
+04-14-2025 16-10-10 INFO: Application closed.
+04-14-2025 16-10-35 INFO: Application started.
+04-14-2025 16-10-35 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-10-35 INFO: Check-in records loaded successfully.
+04-14-2025 16-10-35 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-10-35 DEBUG: Widgets created.
+04-14-2025 16-10-35 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-10-36 INFO: Admin window opened.
+04-14-2025 16-10-44 INFO: Application closed.
+04-14-2025 16-13-52 INFO: Application started.
+04-14-2025 16-13-52 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-13-52 INFO: Check-in records loaded successfully.
+04-14-2025 16-13-52 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-13-52 DEBUG: Widgets created.
+04-14-2025 16-13-52 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-13-54 INFO: Admin window opened.
+04-14-2025 16-14-46 INFO: Application closed.
+04-14-2025 16-21-03 INFO: Application started.
+04-14-2025 16-21-03 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-21-03 INFO: Check-in records loaded successfully.
+04-14-2025 16-21-03 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-21-03 DEBUG: Widgets created.
+04-14-2025 16-21-03 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-21-04 INFO: Admin window opened.
+04-14-2025 16-21-14 INFO: Application closed.
+04-14-2025 16-21-43 INFO: Application started.
+04-14-2025 16-21-43 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-21-43 INFO: Check-in records loaded successfully.
+04-14-2025 16-21-43 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-21-43 DEBUG: Widgets created.
+04-14-2025 16-21-43 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-21-45 INFO: Admin window opened.
+04-14-2025 16-21-57 INFO: Application closed.
+04-14-2025 16-22-11 INFO: Application started.
+04-14-2025 16-22-11 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-22-11 INFO: Check-in records loaded successfully.
+04-14-2025 16-22-11 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-22-11 DEBUG: Widgets created.
+04-14-2025 16-22-11 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-22-13 INFO: Admin window opened.
+04-14-2025 16-22-25 INFO: Application closed.
+04-14-2025 16-23-12 INFO: Application started.
+04-14-2025 16-23-12 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-23-12 INFO: Check-in records loaded successfully.
+04-14-2025 16-23-12 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-23-12 DEBUG: Widgets created.
+04-14-2025 16-23-12 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-23-15 INFO: Admin window opened.
+04-14-2025 16-23-26 INFO: Application closed.
+04-14-2025 16-23-42 INFO: Application started.
+04-14-2025 16-23-42 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-23-42 INFO: Check-in records loaded successfully.
+04-14-2025 16-23-42 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-23-42 DEBUG: Widgets created.
+04-14-2025 16-23-42 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-23-44 INFO: Admin window opened.
+04-14-2025 16-23-50 INFO: Application closed.
+04-14-2025 16-24-03 INFO: Application started.
+04-14-2025 16-24-03 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-24-03 INFO: Check-in records loaded successfully.
+04-14-2025 16-24-03 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-24-03 DEBUG: Widgets created.
+04-14-2025 16-24-03 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-24-04 INFO: Admin window opened.
+04-14-2025 16-24-14 INFO: Application closed.
+04-14-2025 16-24-34 INFO: Application started.
+04-14-2025 16-24-34 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-24-34 INFO: Check-in records loaded successfully.
+04-14-2025 16-24-34 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-24-34 DEBUG: Widgets created.
+04-14-2025 16-24-34 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-24-35 INFO: Admin window opened.
+04-14-2025 16-24-49 INFO: Application closed.
+04-14-2025 16-25-07 INFO: Application started.
+04-14-2025 16-25-07 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-25-07 INFO: Check-in records loaded successfully.
+04-14-2025 16-25-07 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-25-07 DEBUG: Widgets created.
+04-14-2025 16-25-07 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-25-10 INFO: Admin window opened.
+04-14-2025 16-25-17 INFO: Application closed.
+04-14-2025 16-25-29 INFO: Application started.
+04-14-2025 16-25-29 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-25-29 INFO: Check-in records loaded successfully.
+04-14-2025 16-25-29 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-25-29 DEBUG: Widgets created.
+04-14-2025 16-25-29 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-25-31 INFO: Admin window opened.
+04-14-2025 16-25-38 INFO: Application closed.
+04-14-2025 16-25-52 INFO: Application started.
+04-14-2025 16-25-52 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-25-52 INFO: Check-in records loaded successfully.
+04-14-2025 16-25-52 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-25-52 DEBUG: Widgets created.
+04-14-2025 16-25-52 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-25-53 INFO: Admin window opened.
+04-14-2025 16-26-04 INFO: Application closed.
+04-14-2025 16-26-31 INFO: Application started.
+04-14-2025 16-26-31 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-26-31 INFO: Check-in records loaded successfully.
+04-14-2025 16-26-31 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-26-31 DEBUG: Widgets created.
+04-14-2025 16-26-31 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-26-33 INFO: Admin window opened.
+04-14-2025 16-26-40 INFO: Application closed.
+04-14-2025 16-26-57 INFO: Application started.
+04-14-2025 16-26-57 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-26-57 INFO: Check-in records loaded successfully.
+04-14-2025 16-26-57 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-26-57 DEBUG: Widgets created.
+04-14-2025 16-26-57 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-26-59 INFO: Admin window opened.
+04-14-2025 16-27-02 INFO: Application closed.
+04-14-2025 16-27-15 INFO: Application started.
+04-14-2025 16-27-15 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-27-15 INFO: Check-in records loaded successfully.
+04-14-2025 16-27-15 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-27-15 DEBUG: Widgets created.
+04-14-2025 16-27-15 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-27-17 INFO: Admin window opened.
+04-14-2025 16-27-24 INFO: Application closed.
+04-14-2025 16-42-48 INFO: Application started.
+04-14-2025 16-42-48 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-42-48 INFO: Check-in records loaded successfully.
+04-14-2025 16-42-48 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-42-48 DEBUG: Widgets created.
+04-14-2025 16-42-48 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-42-50 INFO: Admin window opened.
+04-14-2025 16-44-07 INFO: SMTP settings updated successfully.
+04-14-2025 16-44-26 INFO: Application closed.
+04-14-2025 16-44-27 INFO: Application started.
+04-14-2025 16-44-27 INFO: Starting the Guest Check-In Application.
+04-14-2025 16-44-27 INFO: Check-in records loaded successfully.
+04-14-2025 16-44-27 DEBUG: Initializing GuestCheckInApp UI.
+04-14-2025 16-44-27 DEBUG: Widgets created.
+04-14-2025 16-44-27 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-44-37 INFO: Starting face capture.
+04-14-2025 16-44-41 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1644.png
+04-14-2025 16-44-43 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1644.png
+04-14-2025 16-44-44 INFO: Starting driver license capture.
+04-14-2025 16-44-48 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1644.png
+04-14-2025 16-44-49 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\Driver License\license_04-14-2025_1644.png
+04-14-2025 16-44-50 DEBUG: Processing check-in.
+04-14-2025 16-44-50 INFO: Guest record created: {'name': 'kevin', 'company': 'nguyen', 'badge_id': 'Visitor 2', 'reason_of_visit': 'sdfsa', 'area': 'sda', 'date': '04-14-2025', 'time_in': '04-14-2025 16:44:50', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1644.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1644.png'}
+04-14-2025 16-44-50 INFO: Preparing email notification for guest: kevin
+04-14-2025 16-44-50 DEBUG: Attached email text content.
+04-14-2025 16-44-50 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Guest Checkin Program\faces\face_04-14-2025_1644.png
+04-14-2025 16-44-50 DEBUG: Connecting to SMTP server.
+04-14-2025 16-44-52 INFO: Email sent successfully with attachment.
+04-14-2025 16-44-52 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: sdfsa
+04-14-2025 16-44-53 DEBUG: Fields cleared after check-in.
+04-14-2025 16-44-53 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-44-53 INFO: Check-in records saved successfully.
+04-14-2025 16-45-01 INFO: Guest checked out: {'name': 'kevin', 'company': 'nguyen', 'badge_id': 'Visitor 2', 'reason_of_visit': 'sdfsa', 'area': 'sda', 'date': '04-14-2025', 'time_in': '04-14-2025 16:44:50', 'time_out': '04-14-2025 16:45:00', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\faces\\face_04-14-2025_1644.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\Driver License\\license_04-14-2025_1644.png'}
+04-14-2025 16-45-01 INFO: Check-in records saved successfully.
+04-14-2025 16-45-01 DEBUG: Treeview updated with current check-in records.
+04-14-2025 16-45-08 INFO: Admin window opened.
+04-14-2025 16-45-30 INFO: SMTP settings updated successfully.
+04-14-2025 16-45-36 INFO: Application closed.
+04-15-2025 10-04-13 INFO: Application started.
+04-15-2025 10-04-13 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-04-13 INFO: Check-in records loaded successfully.
+04-15-2025 10-04-13 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-04-13 DEBUG: Widgets created.
+04-15-2025 10-04-13 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-06-41 INFO: Application started.
+04-15-2025 10-06-41 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-06-41 INFO: Check-in records loaded successfully.
+04-15-2025 10-06-41 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-06-41 DEBUG: Widgets created.
+04-15-2025 10-06-41 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-06-47 INFO: Admin window opened.
+04-15-2025 10-06-54 INFO: Application closed.
+04-15-2025 10-44-26 INFO: Application started.
+04-15-2025 10-44-26 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-26 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-26 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-26 DEBUG: Widgets created.
+04-15-2025 10-44-26 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-31 INFO: Application closed.
+04-15-2025 10-44-32 INFO: Application closed.
+04-15-2025 10-44-32 INFO: Application started.
+04-15-2025 10-44-32 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-32 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-32 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-32 DEBUG: Widgets created.
+04-15-2025 10-44-32 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-34 INFO: Application closed.
+04-15-2025 10-44-34 INFO: Application started.
+04-15-2025 10-44-34 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-34 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-34 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-34 DEBUG: Widgets created.
+04-15-2025 10-44-34 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-36 INFO: Application closed.
+04-15-2025 10-44-36 INFO: Application started.
+04-15-2025 10-44-36 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-36 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-36 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-36 DEBUG: Widgets created.
+04-15-2025 10-44-36 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-37 INFO: Application closed.
+04-15-2025 10-44-37 INFO: Application started.
+04-15-2025 10-44-37 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-37 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-37 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-37 DEBUG: Widgets created.
+04-15-2025 10-44-37 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-38 INFO: Application closed.
+04-15-2025 10-44-38 INFO: Application started.
+04-15-2025 10-44-38 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-38 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-38 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-38 DEBUG: Widgets created.
+04-15-2025 10-44-38 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-44-39 INFO: Application closed.
+04-15-2025 10-44-41 INFO: Application started.
+04-15-2025 10-44-41 INFO: Starting the Guest Check-In Application.
+04-15-2025 10-44-42 INFO: Check-in records loaded successfully.
+04-15-2025 10-44-42 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 10-44-42 DEBUG: Widgets created.
+04-15-2025 10-44-42 DEBUG: Treeview updated with current check-in records.
+04-15-2025 10-45-46 INFO: Application closed.
+04-15-2025 11-21-28 INFO: Application started.
+04-15-2025 11-21-28 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-21-28 INFO: Check-in records loaded successfully.
+04-15-2025 11-21-28 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-21-28 DEBUG: Widgets created.
+04-15-2025 11-21-28 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-21-39 INFO: Application closed.
+04-15-2025 11-22-21 INFO: Application started.
+04-15-2025 11-22-21 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-22-21 INFO: Check-in records loaded successfully.
+04-15-2025 11-22-21 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-22-21 DEBUG: Widgets created.
+04-15-2025 11-22-21 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-22-40 INFO: Application closed.
+04-15-2025 11-24-27 INFO: Application started.
+04-15-2025 11-24-27 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-24-27 INFO: Check-in records loaded successfully.
+04-15-2025 11-24-27 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-24-27 DEBUG: Widgets created.
+04-15-2025 11-24-27 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-24-30 INFO: Application closed.
+04-15-2025 11-24-44 INFO: Application started.
+04-15-2025 11-24-44 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-24-44 INFO: Check-in records loaded successfully.
+04-15-2025 11-24-44 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-24-44 DEBUG: Widgets created.
+04-15-2025 11-24-44 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-24-46 INFO: Application closed.
+04-15-2025 11-24-52 INFO: Application started.
+04-15-2025 11-24-52 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-24-52 INFO: Check-in records loaded successfully.
+04-15-2025 11-24-52 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-24-53 DEBUG: Widgets created.
+04-15-2025 11-24-53 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-24-56 INFO: Application closed.
+04-15-2025 11-25-02 INFO: Application started.
+04-15-2025 11-25-02 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-25-02 INFO: Check-in records loaded successfully.
+04-15-2025 11-25-02 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-25-02 DEBUG: Widgets created.
+04-15-2025 11-25-02 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-25-05 INFO: Application closed.
+04-15-2025 11-25-10 INFO: Application started.
+04-15-2025 11-25-10 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-25-10 INFO: Check-in records loaded successfully.
+04-15-2025 11-25-10 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-25-10 DEBUG: Widgets created.
+04-15-2025 11-25-10 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-25-14 INFO: Application closed.
+04-15-2025 11-25-39 INFO: Application started.
+04-15-2025 11-25-39 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-25-39 INFO: Check-in records loaded successfully.
+04-15-2025 11-25-39 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-25-39 DEBUG: Widgets created.
+04-15-2025 11-25-39 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-25-51 INFO: Application closed.
+04-15-2025 11-26-28 INFO: Application started.
+04-15-2025 11-26-28 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-26-28 INFO: Check-in records loaded successfully.
+04-15-2025 11-26-28 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-26-28 DEBUG: Widgets created.
+04-15-2025 11-26-28 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-26-51 INFO: Admin window opened.
+04-15-2025 11-26-59 INFO: Application closed.
+04-15-2025 11-28-57 INFO: Application started.
+04-15-2025 11-28-57 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-28-57 INFO: Check-in records loaded successfully.
+04-15-2025 11-28-57 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-28-57 DEBUG: Widgets created.
+04-15-2025 11-28-57 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-28-58 INFO: Admin window opened.
+04-15-2025 11-29-10 INFO: Application closed.
+04-15-2025 11-47-08 INFO: Application started.
+04-15-2025 11-47-08 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-47-08 INFO: Check-in records loaded successfully.
+04-15-2025 11-47-08 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-47-08 DEBUG: Widgets created.
+04-15-2025 11-47-08 DEBUG: Treeview updated with current check-in records.
+04-15-2025 11-47-26 INFO: Admin window opened.
+04-15-2025 11-48-18 ERROR: Error saving SMTP settings to file: [Errno 13] Permission denied: 'C:\\Users\\Kevin Nguyen\\Desktop\\Guest Checkin Program\\smtp_config.json'
+04-15-2025 11-49-12 INFO: Application closed.
+04-15-2025 11-59-49 INFO: Application started.
+04-15-2025 11-59-49 INFO: Starting the Guest Check-In Application.
+04-15-2025 11-59-49 INFO: Check-in records loaded successfully.
+04-15-2025 11-59-49 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 11-59-49 DEBUG: Widgets created.
+04-15-2025 11-59-49 DEBUG: Treeview updated with current check-in records.
+04-15-2025 12-00-45 INFO: Admin window opened.
+04-15-2025 12-00-50 INFO: Application closed.
+04-15-2025 12-21-20 INFO: Application started.
+04-15-2025 12-21-20 INFO: Starting the Guest Check-In Application.
+04-15-2025 12-21-20 INFO: Check-in records loaded successfully.
+04-15-2025 12-21-20 DEBUG: Initializing GuestCheckInApp UI.
+04-15-2025 12-21-20 DEBUG: Widgets created.
+04-15-2025 12-21-20 DEBUG: Treeview updated with current check-in records.
+04-15-2025 12-21-24 INFO: Admin window opened.
+04-15-2025 12-22-05 INFO: SMTP settings saved to file successfully.
+04-15-2025 12-22-07 INFO: SMTP settings updated successfully.
+04-15-2025 12-22-19 INFO: Application closed.
+04-23-2025 16-26-09 INFO: Application started.
+04-23-2025 16-26-09 INFO: Starting the Guest Check-In Application.
+04-23-2025 16-26-09 INFO: Check-in records loaded successfully.
+04-23-2025 16-26-09 DEBUG: Initializing GuestCheckInApp UI.
+04-23-2025 16-26-09 DEBUG: Widgets created.
+04-23-2025 16-26-09 DEBUG: Treeview updated with current check-in records.
+04-23-2025 16-26-22 INFO: Application closed.
+04-25-2025 13-54-01 INFO: Application started.
+04-25-2025 13-54-01 INFO: Starting the Guest Check-In Application.
+04-25-2025 13-54-02 INFO: Check-in records loaded successfully.
+04-25-2025 13-54-02 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 13-54-02 DEBUG: Widgets created.
+04-25-2025 13-54-02 DEBUG: Treeview updated with current check-in records.
+04-25-2025 13-54-32 INFO: Admin window opened.
+04-25-2025 13-54-34 INFO: Badge Inventory button clicked from admin menu.
+04-25-2025 13-56-59 INFO: Application closed.
+04-25-2025 14-04-51 INFO: Application started.
+04-25-2025 14-04-51 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-04-51 INFO: Check-in records loaded successfully.
+04-25-2025 14-04-51 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-04-51 DEBUG: Widgets created.
+04-25-2025 14-04-51 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-04-54 INFO: Application closed.
+04-25-2025 14-21-49 INFO: Application started.
+04-25-2025 14-21-49 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-21-49 INFO: Check-in records loaded successfully.
+04-25-2025 14-21-49 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-21-49 DEBUG: Widgets created.
+04-25-2025 14-21-49 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-21-55 INFO: Admin window opened.
+04-25-2025 14-21-57 INFO: Badge Inventory button clicked from admin menu.
+04-25-2025 14-23-01 INFO: Badge Inventory button clicked from admin menu.
+04-25-2025 14-23-05 INFO: Application closed.
+04-25-2025 14-41-48 INFO: Application started.
+04-25-2025 14-41-48 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-41-48 INFO: Check-in records loaded successfully.
+04-25-2025 14-41-48 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-41-48 DEBUG: Widgets created.
+04-25-2025 14-41-48 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-41-50 INFO: Admin window opened.
+04-25-2025 14-41-51 INFO: Badge Inventory button clicked from admin menu.
+04-25-2025 14-42-36 INFO: Application closed.
+04-25-2025 14-44-57 INFO: Application started.
+04-25-2025 14-44-57 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-44-57 INFO: Check-in records loaded successfully.
+04-25-2025 14-44-57 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-44-57 DEBUG: Widgets created.
+04-25-2025 14-44-57 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-46-19 INFO: Starting face capture.
+04-25-2025 14-46-25 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1446.png
+04-25-2025 14-46-30 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1446.png
+04-25-2025 14-46-32 INFO: Starting driver license capture.
+04-25-2025 14-46-39 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1446.png
+04-25-2025 14-46-41 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1446.png
+04-25-2025 14-46-45 DEBUG: Processing check-in.
+04-25-2025 14-51-37 INFO: Application closed.
+04-25-2025 14-51-38 INFO: Application started.
+04-25-2025 14-51-38 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-51-38 INFO: Check-in records loaded successfully.
+04-25-2025 14-51-38 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-51-38 DEBUG: Widgets created.
+04-25-2025 14-51-38 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-51-40 INFO: Application closed.
+04-25-2025 14-51-40 INFO: Application started.
+04-25-2025 14-51-40 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-51-40 INFO: Check-in records loaded successfully.
+04-25-2025 14-51-40 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-51-40 DEBUG: Widgets created.
+04-25-2025 14-51-40 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-51-42 INFO: Application closed.
+04-25-2025 14-51-43 INFO: Application started.
+04-25-2025 14-51-43 INFO: Starting the Guest Check-In Application.
+04-25-2025 14-51-43 INFO: Check-in records loaded successfully.
+04-25-2025 14-51-43 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 14-51-43 DEBUG: Widgets created.
+04-25-2025 14-51-43 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-52-01 INFO: Starting face capture.
+04-25-2025 14-52-07 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1452.png
+04-25-2025 14-52-08 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1452.png
+04-25-2025 14-52-10 INFO: Starting driver license capture.
+04-25-2025 14-52-15 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1452.png
+04-25-2025 14-52-16 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1452.png
+04-25-2025 14-52-44 DEBUG: Processing check-in.
+04-25-2025 14-52-44 INFO: Guest record created: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Test', 'area': 'Test', 'date': '04-25-2025', 'time_in': '04-25-2025 14:52:44', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1452.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1452.png'}
+04-25-2025 14-52-44 INFO: Preparing email notification for guest: kevin
+04-25-2025 14-52-44 DEBUG: Attached email text content.
+04-25-2025 14-52-44 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1452.png
+04-25-2025 14-52-44 DEBUG: Connecting to SMTP server.
+04-25-2025 14-52-46 INFO: Email sent successfully with attachment.
+04-25-2025 14-52-46 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest kevin has just checked in.
+Reason of Visit: Test
+04-25-2025 14-53-58 DEBUG: Fields cleared after check-in.
+04-25-2025 14-53-58 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-53-58 INFO: Check-in records saved successfully.
+04-25-2025 14-54-13 INFO: Updated record 5: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 2', 'reason_of_visit': 'Test', 'area': 'Test', 'date': '04-25-2025', 'time_in': '04-25-2025 14:52:44', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1452.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1452.png'}
+04-25-2025 14-54-26 INFO: Updated record 5: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Test', 'area': 'Test', 'date': '04-25-2025', 'time_in': '04-25-2025 14:52:44', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1452.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1452.png'}
+04-25-2025 14-54-35 INFO: Updated record 5: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Testgggg', 'area': 'Test', 'date': '04-25-2025', 'time_in': '04-25-2025 14:52:44', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1452.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1452.png'}
+04-25-2025 14-54-39 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-56-08 INFO: Admin window opened.
+04-25-2025 14-56-10 INFO: Badge Inventory button clicked from admin menu.
+04-25-2025 14-56-34 INFO: Guest checked out: {'name': 'kevin', 'company': 'tgc', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Testgggg', 'area': 'Test', 'date': '04-25-2025', 'time_in': '04-25-2025 14:52:44', 'time_out': '04-25-2025 14:56:30', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1452.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1452.png'}
+04-25-2025 14-56-34 INFO: Check-in records saved successfully.
+04-25-2025 14-56-34 DEBUG: Treeview updated with current check-in records.
+04-25-2025 14-56-35 INFO: Application closed.
+04-25-2025 15-08-40 INFO: Application started.
+04-25-2025 15-08-40 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-08-40 INFO: Check-in records loaded successfully.
+04-25-2025 15-08-40 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-08-40 DEBUG: Widgets created.
+04-25-2025 15-08-40 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-08-58 INFO: Starting face capture.
+04-25-2025 15-09-02 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1509.png
+04-25-2025 15-09-03 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1509.png
+04-25-2025 15-09-04 INFO: Starting driver license capture.
+04-25-2025 15-09-08 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1509.png
+04-25-2025 15-09-09 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1509.png
+04-25-2025 15-09-10 DEBUG: Processing check-in.
+04-25-2025 15-09-10 INFO: Guest record created: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Moboile', 'area': 'Nngf', 'date': '04-25-2025', 'time_in': '04-25-2025 15:09:10', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1509.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1509.png'}
+04-25-2025 15-09-10 INFO: Preparing email notification for guest: Kevin
+04-25-2025 15-09-10 DEBUG: Attached email text content.
+04-25-2025 15-09-10 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1509.png
+04-25-2025 15-09-10 DEBUG: Connecting to SMTP server.
+04-25-2025 15-09-12 INFO: Email sent successfully with attachment.
+04-25-2025 15-09-12 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest Kevin has just checked in.
+Reason of Visit: Moboile
+04-25-2025 15-09-13 DEBUG: Fields cleared after check-in.
+04-25-2025 15-09-13 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-09-13 INFO: Check-in records saved successfully.
+04-25-2025 15-11-57 INFO: Application closed.
+04-25-2025 15-12-04 INFO: Application started.
+04-25-2025 15-12-04 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-12-04 INFO: Check-in records loaded successfully.
+04-25-2025 15-12-04 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-12-04 DEBUG: Widgets created.
+04-25-2025 15-12-04 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-12-30 INFO: Updated record 6: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Moboile', 'area': 'Nngf', 'date': '04-25-2025', 'time_in': '04-25-2025 15:09:10', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1509.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1509.png'}
+04-25-2025 15-12-32 INFO: Updated record 6: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Moboile', 'area': 'Nngf', 'date': '04-25-2025', 'time_in': '04-25-2025 15:09:10', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1509.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1509.png'}
+04-25-2025 15-12-48 INFO: Application closed.
+04-25-2025 15-15-12 INFO: Application started.
+04-25-2025 15-15-12 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-15-12 INFO: Check-in records loaded successfully.
+04-25-2025 15-15-12 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-15-12 DEBUG: Widgets created.
+04-25-2025 15-15-12 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-15-26 INFO: Updated record 6 area -> Nngf
+04-25-2025 15-15-27 INFO: Updated record 6 badge_id -> Visitor 1
+04-25-2025 15-15-28 INFO: Updated record 6 reason_of_visit -> Moboile
+04-25-2025 15-15-33 INFO: Updated record 6 area -> g
+04-25-2025 15-15-35 INFO: Guest checked out: {'name': 'Kevin', 'company': 'Nguyen', 'badge_id': 'Visitor 1', 'reason_of_visit': 'Moboile', 'area': 'g', 'date': '04-25-2025', 'time_in': '04-25-2025 15:09:10', 'time_out': '04-25-2025 15:15:33', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1509.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1509.png'}
+04-25-2025 15-15-35 INFO: Check-in records saved successfully.
+04-25-2025 15-15-35 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-15-40 INFO: Application closed.
+04-25-2025 15-16-06 INFO: Application started.
+04-25-2025 15-16-06 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-16-06 INFO: Check-in records loaded successfully.
+04-25-2025 15-16-06 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-16-06 DEBUG: Widgets created.
+04-25-2025 15-16-06 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-16-13 INFO: Starting face capture.
+04-25-2025 15-16-17 DEBUG: Attempting to write image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1516.png
+04-25-2025 15-16-18 INFO: Face captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1516.png
+04-25-2025 15-16-19 INFO: Starting driver license capture.
+04-25-2025 15-16-22 DEBUG: Attempting to write driver license image to C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1516.png
+04-25-2025 15-16-23 INFO: Driver license captured and saved: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\Driver License\license_04-25-2025_1516.png
+04-25-2025 15-16-24 DEBUG: Processing check-in.
+04-25-2025 15-16-24 INFO: Guest record created: {'name': 'vbvcxb', 'company': 'vcbcxvb', 'badge_id': 'Visitor 3', 'reason_of_visit': 'vcbcb', 'area': 'cvbxcvb', 'date': '04-25-2025', 'time_in': '04-25-2025 15:16:24', 'time_out': None, 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1516.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1516.png'}
+04-25-2025 15-16-24 INFO: Preparing email notification for guest: vbvcxb
+04-25-2025 15-16-24 DEBUG: Attached email text content.
+04-25-2025 15-16-24 INFO: Attached face image: C:\Users\Kevin Nguyen\Desktop\Projects\Guest Checkin Program\faces\face_04-25-2025_1516.png
+04-25-2025 15-16-24 DEBUG: Connecting to SMTP server.
+04-25-2025 15-16-25 INFO: Email sent successfully with attachment.
+04-25-2025 15-16-25 INFO: Notification sent to host (Nguyen.kevin@tgcsushi.com): Guest vbvcxb has just checked in.
+Reason of Visit: vcbcb
+04-25-2025 15-16-27 DEBUG: Fields cleared after check-in.
+04-25-2025 15-16-27 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-16-27 INFO: Check-in records saved successfully.
+04-25-2025 15-16-33 INFO: Application closed.
+04-25-2025 15-16-53 INFO: Application started.
+04-25-2025 15-16-53 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-16-53 INFO: Check-in records loaded successfully.
+04-25-2025 15-16-53 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-16-53 DEBUG: Widgets created.
+04-25-2025 15-16-53 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-16-57 INFO: Updated record 7 area -> dhgdhdf
+04-25-2025 15-16-59 INFO: Application closed.
+04-25-2025 15-17-07 INFO: Application started.
+04-25-2025 15-17-07 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-17-07 INFO: Check-in records loaded successfully.
+04-25-2025 15-17-07 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-17-07 DEBUG: Widgets created.
+04-25-2025 15-17-07 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-17-11 INFO: Updated record 7 area -> g
+04-25-2025 15-17-12 INFO: Updated record 7 area -> g
+04-25-2025 15-17-14 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-17-16 INFO: Application closed.
+04-25-2025 15-24-33 INFO: Application started.
+04-25-2025 15-24-33 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-24-33 INFO: Check-in records loaded successfully.
+04-25-2025 15-24-33 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-24-33 DEBUG: Widgets created.
+04-25-2025 15-24-33 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-24-34 INFO: Application closed.
+04-25-2025 15-24-38 INFO: Application started.
+04-25-2025 15-24-38 INFO: Starting the Guest Check-In Application.
+04-25-2025 15-24-38 INFO: Check-in records loaded successfully.
+04-25-2025 15-24-38 DEBUG: Initializing GuestCheckInApp UI.
+04-25-2025 15-24-38 DEBUG: Widgets created.
+04-25-2025 15-24-38 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-24-47 INFO: Updated record 7 area -> cvfdgfggggggg
+04-25-2025 15-24-47 INFO: Check-in records saved successfully.
+04-25-2025 15-24-58 INFO: Updated record 7 reason_of_visit -> vcbcbdddd
+04-25-2025 15-24-58 INFO: Check-in records saved successfully.
+04-25-2025 15-25-03 INFO: Updated record 7 badge_id -> Visitor 333
+04-25-2025 15-25-03 INFO: Check-in records saved successfully.
+04-25-2025 15-25-10 INFO: Guest checked out: {'name': 'vbvcxb', 'company': 'vcbcxvb', 'badge_id': 'Visitor 333', 'reason_of_visit': 'vcbcbdddd', 'area': 'cvfdgfggggggg', 'date': '04-25-2025', 'time_in': '04-25-2025 15:16:24', 'time_out': '04-25-2025 15:25:08', 'face_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\faces\\face_04-25-2025_1516.png', 'nda_accepted': True, 'driver_license_file': 'C:\\Users\\Kevin Nguyen\\Desktop\\Projects\\Guest Checkin Program\\Driver License\\license_04-25-2025_1516.png'}
+04-25-2025 15-25-10 INFO: Check-in records saved successfully.
+04-25-2025 15-25-10 DEBUG: Treeview updated with current check-in records.
+04-25-2025 15-25-11 INFO: Application closed.
+04-28-2025 12-34-19 INFO: Application started.
+04-28-2025 12-34-19 INFO: Starting the Guest Check-In Application.
+04-28-2025 12-34-20 INFO: Check-in records loaded successfully.
+04-28-2025 12-34-20 DEBUG: Initializing GuestCheckInApp UI.
+04-28-2025 12-34-20 DEBUG: Widgets created.
+04-28-2025 12-34-20 DEBUG: Treeview updated with current check-in records.
+04-28-2025 12-34-26 INFO: Application closed.
+04-29-2025 14-49-17 INFO: Application started.
+04-29-2025 14-49-17 INFO: Starting the Guest Check-In Application.
+04-29-2025 14-49-17 INFO: Check-in records loaded successfully.
+04-29-2025 14-49-17 DEBUG: Initializing GuestCheckInApp UI.
+04-29-2025 14-49-17 DEBUG: Widgets created.
+04-29-2025 14-49-17 DEBUG: Treeview updated with current check-in records.
